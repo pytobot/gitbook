@@ -2,11 +2,11 @@
 
 ## Intro
 
-Pytobot is een DIY 3D-print low-cost Rover die je stap voor stap in wereld van IOT brengt.  
-Het brengt electronica, 3D-modeling en ICT samen tot een project op maat van 10-16 jarigen.
+**Pytobot** is a DIY 3D-print **low-cost Rover** that will bring you step by step into the world of IOT.   
+It takes electronics, 3D modeling and IT together into a tailor-made **project for 10-16 year olds.**
 
-Raspberry Pi kan nogal overwelding overkomen voor kinderen om mee aan de slag te gaan.   
-Door middel van de Pytobot willen wij de stap kleiner maken en de raspberry pi toeganelijker maken om mee aan de slag te gaan. Met NodeRed wordt er een leeromgeving samengesteld dat adhv API's de robot aanstuurt. 
+Raspberry Pi can be quite overwhelming for children. With the Pytobot we want to make the step smaller and make the raspberry pi more **accessible for children**.   
+With a full REST interface that controlls the bot, you will be able to control the bot on multiple ways for diffrent levels of programming. 
 
 ## What's Included
 
