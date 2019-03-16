@@ -21,7 +21,7 @@ With a full REST interface that controlls the bot, you will be able to control t
 * L298N H-Bridge motor controller
 * QRE1113 Line Sensor 
 * Easy control REST Interface
-* 
+
 ## Schematic
 
 ![](.gitbook/assets/pytobot.png)
