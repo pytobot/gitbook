@@ -6,7 +6,7 @@
 It takes electronics, 3D modeling and IOT together into a tailor-made **project for 10-16 year olds.**
 
 Raspberry Pi can be quite overwhelming for children. With the Pytobot we want to make the step smaller and make the raspberry pi more **accessible for children**.   
-With a full REST interface that controlls the bot, you will be able to control the bot on multiple ways for diffrent levels of programming. 
+With a full REST interface that controlls the bot, you will be able to have control on multiple ways for different levels of programming. 
 
 ## What's Included
 
