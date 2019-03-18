@@ -10,6 +10,8 @@ With a full REST interface that controlls the bot, you will be able to control t
 
 ## What's Included
 
+### hardware
+
 * Raspberry Pi Zero W
 * Sparkfun 9DoF sensor 
 * RGBW Digtial Led Strip
@@ -20,8 +22,22 @@ With a full REST interface that controlls the bot, you will be able to control t
 * CYT1037 motor
 * L298N H-Bridge motor controller
 * QRE1113 Line Sensor 
-* Easy control REST Interface
 
+### Software
+
+* Easy control REST Interface
+* Docker
+* NodeJS
+* ReactJS
+* Linux
+* TensorFlow
+* Github
+* Gitbook
+* Raspberry Pi
+* Ubuntu
+* Python
+* Solidworks
+* 
 ## Schematic
 
 ![](.gitbook/assets/pytobot.png)
