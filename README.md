@@ -13,7 +13,7 @@ With a full REST interface that controlls the bot, you will be able to have cont
 ### hardware
 
 * Raspberry Pi Zero W
-* Sparkfun 9DoF sensor 
+* 9DoF BNo055 
 * RGBW Digtial Led Strip
 * RGBW Neopixel Ring
 * Distance sensor
