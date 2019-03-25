@@ -23,6 +23,7 @@ With a full REST interface that controlls the bot, you will be able to have cont
 * L298N H-Bridge motor controller
 * QRE1113 Line Sensor
 * PiOLED Adafruit
+* switch
 
 ### Software
 
