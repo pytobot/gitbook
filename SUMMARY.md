@@ -3,6 +3,7 @@
 * [Pytobot](README.md)
 * [setup](setup.md)
 * [Materials](materials/README.md)
+  * [materiallist](materials/materiallist.md)
   * [Sparkfun 9DoF sensor stick](materials/sparkfun-9dof-sensor-stick.md)
   * [Raspberry Pi Camera Module,](materials/raspberry-pi-camera-module.md)
 * [https://learn.adafruit.com/bno055-absolute-orientation-sensor-with-raspberry-pi-and-beaglebone-black](https-learn.adafruit.com-bno055-absolute-orientation-sensor-with-raspberry-pi-and-beaglebone-black.md)

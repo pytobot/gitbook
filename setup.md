@@ -11,25 +11,26 @@ turn the robot on and read the ip addres from the device.
 ## RUN
 
 ```text
+git clone https://github.com/pytobot/pytobot.git
 
 sudo apt upgrade 
 sudo apt update
 
 
 #install git
-sudo apt -Y install git
+sudo apt install git
 
 #install pip
 sudo apt install python3-pip
+sudo apt install python-pip
 sudo apt-get install python3-pip
-
-#install python
-
-sudo apt install python3 idle3
 
 #install dependecies
 sudo pip3 install flask
+sudo pip install flask
 sudo pip3 install gpiozero
+sudo pip install gpiozero
+
 
 
 #install gpizero
