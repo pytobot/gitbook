@@ -2,5 +2,5 @@
 description: follow the steps
 ---
 
-# soldering
+# Soldering / Assembling
 
