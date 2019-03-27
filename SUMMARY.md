@@ -5,7 +5,6 @@
   * [Try Error](log/try-error/README.md)
     * [Battery](log/try-error/battery.md)
     * [Frameworks](log/try-error/frameworks.md)
-* [Untitled](untitled.md)
 
 ## hardware
 
