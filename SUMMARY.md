@@ -16,8 +16,7 @@
 
 ## Programming
 
-* [programming](programming/untitled-1/README.md)
-  * [setup](programming/untitled-1/setup.md)
-  * [frontend](programming/untitled-1/frontend.md)
-  * [API](programming/untitled-1/api.md)
+* [setup](programming/setup.md)
+* [API](programming/api.md)
+* [front-end](programming/untitled-1.md)
 
