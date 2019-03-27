@@ -1,14 +1,18 @@
 # Table of contents
 
 * [Pytobot](README.md)
-* [3D-Print](3d-print.md)
-* [Soldering / Assembling](soldering.md)
-* [Materials](materials/README.md)
-  * [materiallist](materials/materiallist.md)
 * [log](log/README.md)
   * [Try Error](log/try-error/README.md)
     * [Battery](log/try-error/battery.md)
     * [Frameworks](log/try-error/frameworks.md)
+* [Untitled](untitled.md)
+
+## hardware
+
+* [3D-Print](hardware/3d-print.md)
+* [Soldering / Assembling](hardware/soldering.md)
+* [Materials](hardware/materials/README.md)
+  * [materiallist](hardware/materials/materiallist.md)
 
 ## Programming
 
