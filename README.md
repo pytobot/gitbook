@@ -19,12 +19,11 @@ What gives us the advantage that the Pytobot can be **controlled** from **any fr
 
 The Pytobot is an Low cost & Easy control device. What makes programming and configuring the robot acceceble for everyone at every programming level. 
 
-The Pytobot is devided in 3 departments:
+The Pytobot is devided in 2 departments:
 
-* 3D-Printing
-* Soldering/ Assembling
+* Hardware
 * Programming
-* 
+
 ## What's Included
 
 ### hardware
