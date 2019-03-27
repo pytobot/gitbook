@@ -13,7 +13,7 @@ With a full REST interface that controlls the bot, you will be able to have cont
 ### hardware
 
 * Raspberry Pi Zero W
-* [9DoF BNo055](https-learn.adafruit.com-bno055-absolute-orientation-sensor-with-raspberry-pi-and-beaglebone-black.md) 
+* [9DoF BNo055 ](https://learn.adafruit.com/adafruit-bno055-absolute-orientation-sensor)
 * RGBW Digtial Led Strip
 * RGBW Neopixel Ring
 * [Distance sensor](https://www.adafruit.com/product/164)
@@ -23,7 +23,8 @@ With a full REST interface that controlls the bot, you will be able to have cont
 * [L298N H-Bridge motor controller](https://www.sparkfun.com/datasheets/Robotics/L298_H_Bridge.pdf)
 * [QRE1113 Line Sensor](https://www.sparkfun.com/products/9453)
 * [PiOLED Adafruit](https://www.adafruit.com/product/3527)
-* switch
+* [switch](https://www.sparkfun.com/products/8837)
+* [AC/AC regulator AN7805 ](https://industrial.panasonic.com/content/data/SC/ds/ds4/AN7800_E_discon.pdf)
 
 ### Software
 

@@ -3,7 +3,7 @@
 
 
 * Raspberry Pi Zero W
-* [9DoF BNo055](../https-learn.adafruit.com-bno055-absolute-orientation-sensor-with-raspberry-pi-and-beaglebone-black.md) 
+* [9DoF BNo055]() 
 * RGBW Digtial Led Strip
 * RGBW Neopixel Ring
 * [Distance sensor](https://www.adafruit.com/product/172)

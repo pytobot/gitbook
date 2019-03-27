@@ -1,12 +1,12 @@
 # Table of contents
 
 * [Pytobot](README.md)
+* [soldering](soldering/README.md)
+  * [3D-Print](soldering/3d-print.md)
+  * [Untitled](soldering/untitled.md)
 * [setup](setup.md)
 * [Materials](materials/README.md)
   * [materiallist](materials/materiallist.md)
-  * [Sparkfun 9DoF sensor stick](materials/sparkfun-9dof-sensor-stick.md)
-  * [Raspberry Pi Camera Module,](materials/raspberry-pi-camera-module.md)
-* [https://learn.adafruit.com/bno055-absolute-orientation-sensor-with-raspberry-pi-and-beaglebone-black](https-learn.adafruit.com-bno055-absolute-orientation-sensor-with-raspberry-pi-and-beaglebone-black.md)
 * [API](api.md)
 * [Try Error](try-error/README.md)
   * [Battery](try-error/battery.md)
