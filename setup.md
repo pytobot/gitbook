@@ -33,13 +33,8 @@ sudo pip3 install gpiozero
 sudo pip3 install flask
 
 
-sudo pip install gpiozero
 
 
-
-#install gpizero
-sudo apt install python3-gpiozero
-sudo apt install python-gpiozero
 
 
 Escape19
@@ -51,6 +46,12 @@ Escape19
 
 
 ```
+
+## setup a share
+
+{% embed url="https://vives.gitbook.io/iot-devices/developing-apps-for-the-rpi/05\_developing\_apps\_for\_rpi\#setting-up-a-share" %}
+
+
 
 ## Pinout
 
