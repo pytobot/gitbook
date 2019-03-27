@@ -29,7 +29,7 @@ The Pytobot is devided in 2 departments:
 ### hardware
 
 * Raspberry Pi Zero W
-* [9DoF BNo055]() 
+* [9DoF BNo055 ](https://learn.adafruit.com/adafruit-bno055-absolute-orientation-sensor/overview)
 * RGBW Digtial Led Strip
 * RGBW Neopixel Ring
 * [Distance sensor](https://www.adafruit.com/product/164)
@@ -40,7 +40,8 @@ The Pytobot is devided in 2 departments:
 * [QRE1113 Line Sensor](https://www.sparkfun.com/products/9453)
 * [PiOLED Adafruit](https://www.adafruit.com/product/3527)
 * [switch](https://www.sparkfun.com/products/8837)
-
+* [AN7805 DC/DC converter](https://industrial.panasonic.com/content/data/SC/ds/ds4/AN7800_E_discon.pdf)
+* 
 ### Software
 
 * REST Interface
