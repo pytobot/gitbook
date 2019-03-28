@@ -52,4 +52,12 @@ The Pytobot is devided in 2 departments:
 * Raspberry Pi
 * Python
 * Solidworks
+* 
+## 3D-Print
+
+![](.gitbook/assets/whatsapp-image-2019-03-27-at-19.00.27.jpeg)
+
+## Deadline
+
+10/06/2018
 
