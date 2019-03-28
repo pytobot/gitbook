@@ -53,9 +53,13 @@ The Pytobot is devided in 2 departments:
 * Python
 * Solidworks
 * 
-## 3D-Print
+## Progress
 
 ![](.gitbook/assets/whatsapp-image-2019-03-27-at-19.00.27.jpeg)
+
+![](.gitbook/assets/img_2877-copy.png)
+
+![](.gitbook/assets/img_9490-copy.png)
 
 ## Deadline
 
