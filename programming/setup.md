@@ -33,11 +33,18 @@ sudo pip3 install gpiozero
 sudo pip3 install flask
 
 
+#install camerea
+sudo pip3 install picamera
 
 
 
 
 Escape19
+
+git config --global user.email "sybrenmarechal@icloud.com"
+git config --global user.name "sybren-marechal"
+git config --global credential.helper store
+git pull
 
 
 
@@ -53,16 +60,7 @@ Escape19
 
 
 
-## Pinout
-
-| Raspberry |  |
-| :--- | :--- |
-| 17 | H-bridge IN1 |
-| 22 | H-bridge IN2 |
-| 23 | H-bridge IN3 |
-| 24 | H-bridge IN4 |
-| 18 | LED Control |
-| 21 | step motor |
+## 
 
 ## Control
 

@@ -53,4 +53,6 @@ The Pytobot is devided in 2 departments:
 * Raspberry Pi
 * Python
 * Solidworks
+* NodeRed
+* Blockly
 
