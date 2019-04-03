@@ -31,5 +31,5 @@
 * [Try Error](info/try-error/README.md)
   * [Battery](info/try-error/battery.md)
   * [Frameworks](info/try-error/frameworks.md)
-* [bron](info/bron.md)
+* [sources](info/bron.md)
 
