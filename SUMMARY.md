@@ -6,8 +6,17 @@
 
 * [3D-Print](hardware/3d-print.md)
 * [Soldering / Assembling](hardware/soldering.md)
-* [Materials](hardware/materials/README.md)
-  * [materiallist](hardware/materials/materiallist.md)
+* [Components](hardware/components/README.md)
+  * [Kill switch](hardware/components/kill-switch.md)
+  * [Raspberry Pi Zeo](hardware/components/raspberry-pi-zeo.md)
+  * [Micro Servo](hardware/components/micro-servo.md)
+  * [LED-Strip](hardware/components/led-strip.md)
+  * [H-Bridge](hardware/components/h-bridge.md)
+* [Sensors](hardware/sensors/README.md)
+  * [9DoF Sensor](hardware/sensors/9dof-sensor.md)
+  * [Distance Sensor](hardware/sensors/distance-sensor.md)
+  * [Line Sensor](hardware/sensors/line-sensor.md)
+* [Recourses](hardware/recourses.md)
 
 ## Programming
 
