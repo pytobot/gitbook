@@ -12,6 +12,7 @@
   * [Micro Servo](hardware/components/micro-servo.md)
   * [LED-Strip](hardware/components/led-strip.md)
   * [H-Bridge](hardware/components/h-bridge.md)
+  * [Add-on](hardware/components/add-on.md)
 * [Sensors](hardware/sensors/README.md)
   * [9DoF Sensor](hardware/sensors/9dof-sensor.md)
   * [Distance Sensor](hardware/sensors/distance-sensor.md)
