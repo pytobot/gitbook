@@ -10,9 +10,9 @@
 
 ## OLED
 
-{% embed url="https://learn.adafruit.com/ssd1306-oled-displays-with-raspberry-pi-and-beaglebone-black/wiring" %}
+{% embed url="https://learn.adafruit.com/adafruit-pioled-128x32-mini-oled-for-raspberry-pi/usage" %}
 
-{% embed url="https://www.adafruit.com/product/931" %}
+
 
 ## Distance
 

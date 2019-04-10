@@ -13,6 +13,8 @@ turn the robot on and read the ip addres from the device.
 ```text
 git clone https://github.com/pytobot/pytobot.git
 
+#pip3 install --upgrade pip
+
 sudo apt update
 sudo apt upgrade 
 
@@ -35,6 +37,12 @@ sudo pip3 install flask
 
 #install camerea
 sudo pip3 install picamera
+
+
+
+#install OLED (testing)
+sudo pip3 install adafruit-circuitpython-ssd1306
+sudo apt-get install python3-pil
 
 
 
