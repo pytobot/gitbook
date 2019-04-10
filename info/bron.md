@@ -12,8 +12,6 @@
 
 {% embed url="https://learn.adafruit.com/adafruit-pioled-128x32-mini-oled-for-raspberry-pi/usage" %}
 
-
-
 ## Distance
 
 {% embed url="https://www.maxbotix.com/Raspberry-Pi-with-Ultrasonic-Sensors-144" %}
