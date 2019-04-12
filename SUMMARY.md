@@ -10,6 +10,7 @@
   * [input](hardware/components/input/README.md)
     * [Raspberry Pi Zeo](hardware/components/input/raspberry-pi-zeo.md)
   * [components](hardware/components/add-on/README.md)
+    * [PNP](hardware/components/add-on/pnp.md)
     * [Kill switch](hardware/components/add-on/kill-switch.md)
     * [H-Bridge](hardware/components/add-on/h-bridge.md)
   * [output](hardware/components/sensors/README.md)
