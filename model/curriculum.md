@@ -4,8 +4,6 @@
 
 ## Key stage 1
 
-
-
 Pupils should be taught to:
 
 * understand what algorithms are, how they are implemented as programs on digital devices, and that programs execute by following precise and unambiguous instructions
@@ -29,8 +27,6 @@ Pupils should be taught to:
 
 ## Key Stage 3
 
-
-
 Pupils should be taught to:
 
 * design, use and evaluate computational abstractions that model the state and behaviour of real-world problems and physical systems
@@ -44,8 +40,6 @@ Pupils should be taught to:
 * understand a range of ways to use technology safely, respectfully, responsibly and securely, including protecting their online identity and privacy; recognise inappropriate content, contact and conduct, and know how to report concerns
 
 ## Key Stage 4
-
-
 
 All pupils must have the opportunity to study aspects of information technology and computer science at sufficient depth to allow them to progress to higher levels of study or to a professional career.
 
