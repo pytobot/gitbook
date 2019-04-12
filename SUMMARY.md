@@ -34,3 +34,8 @@
   * [Frameworks](info/try-error/frameworks.md)
 * [sources](info/bron.md)
 
+## Business
+
+* [Business Model Canvas](model/business-model-canvas.md)
+* [Curriculum](model/curriculum.md)
+
