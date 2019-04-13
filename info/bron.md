@@ -12,6 +12,10 @@
 
 {% embed url="https://learn.adafruit.com/adafruit-pioled-128x32-mini-oled-for-raspberry-pi/usage" %}
 
+{% embed url="https://github.com/adafruit/Adafruit\_CircuitPython\_SSD1306/blob/master/examples/stats.py" %}
+
+
+
 ## Distance
 
 {% embed url="https://www.maxbotix.com/Raspberry-Pi-with-Ultrasonic-Sensors-144" %}
