@@ -21,6 +21,9 @@ sudo apt upgrade
 #install git
 sudo apt install git
 
+#install I2C tools
+sudo apt install i2c-tools
+
 #install pip
 sudo apt install python3-pip
 #sudo apt install python-pip

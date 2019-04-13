@@ -19,6 +19,7 @@
     * [9DoF Sensor](hardware/components/sensors/9dof-sensor.md)
     * [Distance Sensor](hardware/components/sensors/distance-sensor.md)
     * [Line Sensor](hardware/components/sensors/line-sensor.md)
+    * [OLED](hardware/components/sensors/oled.md)
 * [Recourses](hardware/recourses.md)
 
 ## Programming
