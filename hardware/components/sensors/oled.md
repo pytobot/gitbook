@@ -16,7 +16,7 @@ ValueError: No I2C device at address: 3d
 
 **`sudo i2cdetect -y 1`**
 
-You should see the following, indicating that address **0x3d** \(the OLED display\) was foun
+You should see the following, indicating that address **0x3d** \(the OLED display\) was found
 
 ![I2C address 3D](../../../.gitbook/assets/screenshot-2019-04-13-at-14.13.53.png)
 
