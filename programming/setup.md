@@ -37,18 +37,12 @@ sudo pip3 install gpiozero
 #install dependecies
 sudo pip3 install flask
 
-
 #install camerea
 sudo pip3 install picamera
 
-
-
-#install OLED (testing)
+#install OLED
 sudo pip3 install adafruit-circuitpython-ssd1306
 sudo apt-get install python3-pil
-
-
-
 
 Escape19
 
@@ -56,13 +50,6 @@ git config --global user.email "sybrenmarechal@icloud.com"
 git config --global user.name "sybren-marechal"
 git config --global credential.helper store
 git pull
-
-
-
-
-
-
-
 ```
 
 ## setup a share
