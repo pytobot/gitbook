@@ -8,7 +8,7 @@
 * [Soldering / Assembling](hardware/soldering.md)
 * [electronic](hardware/components/README.md)
   * [input](hardware/components/input/README.md)
-    * [Raspberry Pi Zeo](hardware/components/input/raspberry-pi-zeo.md)
+    * [Raspberry Pi Zero](hardware/components/input/raspberry-pi-zeo.md)
   * [components](hardware/components/add-on/README.md)
     * [PNP](hardware/components/add-on/pnp.md)
     * [Kill switch](hardware/components/add-on/kill-switch.md)

@@ -1,4 +1,4 @@
-# Raspberry Pi Zeo
+# Raspberry Pi Zero
 
 ## Raspberry Pi VS Raspberry Pi Zero 
 
