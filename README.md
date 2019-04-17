@@ -35,7 +35,7 @@ The Pytobot is devided in 2 departments:
 * Distance sensor
 * Wide lens camera
 * [Micro Servo](http://www.ee.ic.ac.uk/pcheung/teaching/DE1_EE/stores/sg90_datasheet.pdf)
-* CYT1037 motor
+* [CYT1037 motor](https://www.sparkfun.com/products/13302?_ga=2.93423325.136307397.1555493489-1667146737.1552666307)
 * [L298N H-Bridge motor controller](https://www.sparkfun.com/datasheets/Robotics/L298_H_Bridge.pdf)
 * [QRE1113 Line Sensor](https://www.sparkfun.com/products/9453)
 * [PiOLED Adafruit](https://www.adafruit.com/product/3527)
