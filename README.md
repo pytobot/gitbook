@@ -15,6 +15,13 @@ With a full **REST interface** that controlls the robot, you will be able to hav
 The Pytobot is build on a **REST interface and JSON communication**.   
 What gives us the advantage that the Pytobot can be **controlled** from **any framework and program** thats connected to the network. 
 
+### Network
+
+The connection with the Robot goes by connecting to the hotspot from the raspberry Pi.   
+You will be able to read the SSID and password from the Oled screen. 
+
+When connected to the hotspot. A browser will open with the toturial and startup config to control the Robot.
+
 ## Education and purpose
 
 The Pytobot is an Low cost & Easy control device. What makes programming and configuring the robot acceceble for everyone at every programming level. 

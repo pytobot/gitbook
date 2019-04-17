@@ -24,6 +24,14 @@
 
 {% embed url="https://howchoo.com/g/mwnlytk3zmm/how-to-add-a-power-button-to-your-raspberry-pi" %}
 
+## 3V3 to 5V
+
+{% embed url="https://electronics.stackexchange.com/questions/81580/step-up-3-3v-to-5v-for-digital-i-o" %}
+
+## irfz44n
+
+{% embed url="https://www.petervis.com/electronics/IRFZ44N/IRFZ44N.html" %}
+
 
 
 1. 
