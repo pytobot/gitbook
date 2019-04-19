@@ -10,6 +10,8 @@ LV-EZ1 Maxbotix Ultrasonic Rangefinder provides very short to long-range detecti
 
 Ultrasonic rangefinder is used to detect objects in front of the device.
 
+### Communication
+
 {% api-method method="post" host="" path="/distance" %}
 {% api-method-summary %}
 
