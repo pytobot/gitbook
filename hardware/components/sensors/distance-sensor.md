@@ -46,7 +46,11 @@ value of the distance of the object in front of the sensor
 
 
 
-{% file src="../../../.gitbook/assets/lv-maxsonar-ez\_datasheet.pdf" %}
+{% file src="../../../.gitbook/assets/lv-maxsonar-ez\_datasheet.pdf" caption="Datasheet" %}
+
+
+
+
 
 
 
