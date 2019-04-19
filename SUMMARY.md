@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Pytobot](README.md)
+* [Pytobot V1](pytobot-v1.md)
 
 ## hardware
 
