@@ -20,6 +20,10 @@
 
 {% embed url="https://www.maxbotix.com/Raspberry-Pi-with-Ultrasonic-Sensors-144" %}
 
+{% embed url="https://github.com/hatobus/LV\_EZ1\_for\_raspi" %}
+
+
+
 ## Shutdown
 
 {% embed url="https://howchoo.com/g/mwnlytk3zmm/how-to-add-a-power-button-to-your-raspberry-pi" %}
