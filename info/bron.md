@@ -36,6 +36,10 @@
 
 {% embed url="https://www.petervis.com/electronics/IRFZ44N/IRFZ44N.html" %}
 
+## ADC
+
+{% embed url="https://learn.adafruit.com/mcp3008-spi-adc/python-circuitpython" %}
+
 
 
 1. 
