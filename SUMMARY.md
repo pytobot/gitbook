@@ -8,7 +8,7 @@
 * [3D-Print](hardware/3d-print.md)
 * [Soldering / Assembling](hardware/soldering.md)
 * [electronic](hardware/components/README.md)
-  * [Raspberry Pi Zero](hardware/components/raspberry-pi-zeo.md)
+  * [Controller](hardware/components/controller.md)
   * [components](hardware/components/add-on/README.md)
     * [Kill switch](hardware/components/add-on/kill-switch.md)
     * [H-Bridge](hardware/components/add-on/h-bridge.md)

@@ -4,6 +4,8 @@
 
 ## Key stage 1
 
+> **Bold** Statements are covered by Pytobot
+
 Pupils should be taught to:
 
 * understand what algorithms are, how they are implemented as programs on digital devices, and that programs execute by following precise and unambiguous instructions
@@ -14,6 +16,8 @@ Pupils should be taught to:
 * use technology safely and respectfully, keeping personal information private; identify where to go for help and support when they have concerns about content or contact on the internet or other online technologies
 
 ## Key Stage 2
+
+> **Bold** Statements are covered by Pytobot
 
 Pupils should be taught to:
 
@@ -26,6 +30,8 @@ Pupils should be taught to:
 * use technology safely, respectfully and responsibly; recognise acceptable/unacceptable behaviour; identify a range of ways to report concerns about content and contact
 
 ## Key Stage 3
+
+> **Bold** Statements are covered by Pytobot
 
 Pupils should be taught to:
 
@@ -40,6 +46,8 @@ Pupils should be taught to:
 * understand a range of ways to use technology safely, respectfully, responsibly and securely, including protecting their online identity and privacy; recognise inappropriate content, contact and conduct, and know how to report concerns
 
 ## Key Stage 4
+
+> **Bold** Statements are covered by Pytobot
 
 All pupils must have the opportunity to study aspects of information technology and computer science at sufficient depth to allow them to progress to higher levels of study or to a professional career.
 
