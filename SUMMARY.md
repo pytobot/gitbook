@@ -12,6 +12,7 @@
   * [components](hardware/components/add-on/README.md)
     * [Kill switch](hardware/components/add-on/kill-switch.md)
     * [H-Bridge](hardware/components/add-on/h-bridge.md)
+    * [DC DC converter](hardware/components/add-on/dc-dc-converter.md)
   * [output](hardware/components/sensors/README.md)
     * [LED-Strip](hardware/components/sensors/led-strip.md)
     * [Micro Servo](hardware/components/sensors/micro-servo.md)
