@@ -4,7 +4,10 @@ The AN78xx series and the AN78xxF series are 3-pin, fixed positive output type m
 
 ## Usages
 
-To be able to power the Motors we need a 6V Input. 
+To be able to power the Motors we need a 6-12V Input.   
+The Controller and sensors 
+
+![](../../../.gitbook/assets/screenshot-2019-04-30-at-10.39.11.png)
 
 
 
