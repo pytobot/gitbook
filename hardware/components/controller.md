@@ -1,10 +1,10 @@
 # Controller
 
-## Raspberry Pi VS Raspberry Pi Zero
+##  Raspberry Pi Zero W
 
 ### 
 
-![](../../.gitbook/assets/raspberry-pi-zero-462x322.jpg)
+![Raspberry Pi Zero W](../../.gitbook/assets/raspberry-pi-zero-462x322.jpg)
 
 
 
