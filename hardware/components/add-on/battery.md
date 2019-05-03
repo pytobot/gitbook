@@ -78,14 +78,12 @@
   </tbody>
 </table>## **Integration in the project.**
 
-### Input voltage
-
 For the project we use 2x 3.6V 3400mAh battery.
 
  7,2V 2400mAh powers:
 
-* Motor H-Bridge
-* DC-DC converter 1
+* Motor H-Bridge \[7.2V\]
+* DC-DC converter \[7.2-5V\] 1
   * Raspberry Pi
   * Line Sensor 1
   * Line Sensor 2
@@ -95,9 +93,9 @@ For the project we use 2x 3.6V 3400mAh battery.
   * Oled
   * 9Dof
   * Distance Sensor
-* DC-DC converter 2
+* DC-DC converter \[7.2-5V\] 2
   * Led 1
-* DC-DC converter 3
+* DC-DC converter \[7.2-5V\]  3
   * Led 2
 
 {% file src="../../../.gitbook/assets/1048p.PDF" %}
