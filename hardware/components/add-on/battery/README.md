@@ -2,7 +2,9 @@
 
 ## FENIX ARB-L18-3400 RECHARGEABLE 18650 BATTERY
 
-![](../../../.gitbook/assets/arb-l18-3400.jpg)
+![](../../../../.gitbook/assets/arb-l18-3400.jpg)
+
+The Fenix ARB-L18-3400 is a high capacity 18650 Li-ion rechargeable with a protection circuit in the anode to help prevent short circuits, over charge/discharge and over heating. The battery also includes pressure relief vents which expel waste gas in the rare case of an internal short circuit preventing an explosion.
 
 ### specifications
 
@@ -45,7 +47,7 @@
       <td style="text-align:left">
         <p></p>
         <p>
-          <img src="../../../.gitbook/assets/1048.jpg" alt/>
+          <img src="../../../../.gitbook/assets/1048.jpg" alt/>
         </p>
       </td>
     </tr>
@@ -71,7 +73,8 @@
       <td style="text-align:left">
         <p></p>
         <p>
-          <img src="../../../.gitbook/assets/fenix-are-x2-battery-charger.jpg" alt/>
+          <img src="../../../../.gitbook/assets/fenix-are-x2-battery-charger.jpg"
+          alt/>
         </p>
       </td>
     </tr>
@@ -97,6 +100,6 @@ For the project we use 2x 3.6V 3400mAh battery.
   * Led 1
 * DC-DC converter \[7.2-5V\]  3
   * Led 2
-
-{% file src="../../../.gitbook/assets/1048p.PDF" %}
+* 
+{% file src="../../../../.gitbook/assets/1048p.PDF" %}
 
