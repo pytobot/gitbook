@@ -17,8 +17,6 @@
 * Size: Length: 2.7″ \(69mm\) Diameter: 0.7″ \(18.6mm\)
 * Warranty Period: 12 month from date of purchase
 
-
-
 <table>
   <thead>
     <tr>
@@ -78,7 +76,11 @@
       </td>
     </tr>
   </tbody>
-</table>* \*\*\*\*
+</table>## **Integration in the project.**
+
+### Input voltage
+
+For the project we use 2x 3.6V 3400mA batterys. 
 
 {% file src="../../../.gitbook/assets/1048p.PDF" %}
 
