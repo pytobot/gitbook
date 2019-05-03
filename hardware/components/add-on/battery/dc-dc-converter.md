@@ -1,6 +1,6 @@
 # DC DC converter
 
-![AN7805CV](../../../.gitbook/assets/to-220.jpg)
+![AN7805CV](../../../../.gitbook/assets/to-220.jpg)
 
 The AN78xx series and the AN78xxF series are 3-pin, fixed positive output type monolithic voltage regu- lators. Stabilised fixed output voltage is obtained from unstable DC input voltage without using any external components.
 
@@ -20,9 +20,9 @@ From the 7.2V input Battery we need to step down to 5V for the following control
 * Led 1
 * Led 2 
 
-![](../../../.gitbook/assets/screenshot-2019-04-30-at-10.39.11.png)
+![](../../../../.gitbook/assets/screenshot-2019-04-30-at-10.39.11.png)
 
 
 
-{% file src="../../../.gitbook/assets/an7800\_e\_discon.pdf" %}
+{% file src="../../../../.gitbook/assets/an7800\_e\_discon.pdf" %}
 

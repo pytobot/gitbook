@@ -1,6 +1,6 @@
 # Soldering / Assembling
 
-![](../.gitbook/assets/screenshot-2019-04-12-at-15.14.58.png)
+![](../../.gitbook/assets/screenshot-2019-04-12-at-15.14.58.png)
 
 ## Input
 

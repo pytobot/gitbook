@@ -1,4 +1,4 @@
-# Battery
+# Battery input
 
 ## FENIX ARB-L18-3400 RECHARGEABLE 18650 BATTERY
 
