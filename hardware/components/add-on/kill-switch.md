@@ -1,11 +1,13 @@
 # Kill switch
 
+![](../../../.gitbook/assets/kill_3-copy_4.png)
+
+#### 
+
 #### When S1 =&gt; '1'
 
 5V will go thrue the Diode and gives 5V to the Gate of the mosfet.   
 The current will flew from the Source to the Drain. and the raspberry Pi will activite.
-
-![](../../../.gitbook/assets/screenshot-2019-04-29-at-20.28.29.png)
 
 When the Raspberry Pi is up pin 08 will go UP.   
 Pin 26 will recieve 5V.
