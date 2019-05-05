@@ -52,7 +52,7 @@ The Pytobot is devided in 2 departments:
 * [Mosfet \(SW\)](https://www.infineon.com/dgdl/irfz44npbf.pdf?fileId=5546d462533600a40153563b3a9f220d)
 * [PNP](https://4donline.ihs.com/images/VipMasterIC/IC/SGST/SGSTS31593/SGSTS31593-1.pdf)
 * [ADC](https://learn.adafruit.com/mcp3008-spi-adc/python-circuitpython)
-* * 
+
 ### Software
 
 * REST Interface
