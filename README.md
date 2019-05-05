@@ -10,8 +10,6 @@ With a full **REST interface** that controlls the robot, you will be able to hav
 
 ![](.gitbook/assets/screenshot-2019-03-27-at-19.18.55.png)
 
-{% embed url="https://youtu.be/ksis32AnK0U" %}
-
 ## Communication and Control 
 
 The Pytobot is build on a **REST interface and JSON communication**.   
@@ -67,4 +65,6 @@ The Pytobot is devided in 2 departments:
 * Solidworks
 * NodeRed
 * Blockly
+
+{% embed url="https://www.youtube.com/watch?v=L9mIKWmf308" %}
 
