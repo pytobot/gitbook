@@ -32,14 +32,14 @@
 
 ## Extra
 
-* [log](info/log.md)
-* [Try Error](info/try-error/README.md)
-  * [Battery](info/try-error/battery.md)
-  * [Frameworks](info/try-error/frameworks.md)
-* [sources](info/bron.md)
+* [log](extra/log.md)
+* [Try Error](extra/try-error/README.md)
+  * [Battery](extra/try-error/battery.md)
+  * [Frameworks](extra/try-error/frameworks.md)
+* [sources](extra/bron.md)
 
 ## Business
 
-* [Business Model Canvas](model/business-model-canvas.md)
-* [Curriculum](model/curriculum.md)
+* [Business Model Canvas](business/business-model-canvas.md)
+* [Curriculum](business/curriculum.md)
 
