@@ -1,5 +1,9 @@
 # electronic
 
+{% hint style="info" %}
+Add picture of the car with all the parts and a short explanation 
+{% endhint %}
+
 ## 
 
 ### hardware
