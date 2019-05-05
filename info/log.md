@@ -14,48 +14,29 @@
 | 22/03/19 | Started With Flask, Soldering Motors, Looking into OpenCV |
 | 23/03/19 | Testing OpenCV, Starting Looking into Batterypower and Ledstrip |
 | 25/03/19 | Workflow, Making Sprints, Starting LED |
-| 26/03/19 |  |
-| 27/03/19 |  |
-| 28/03/19 |  |
-| 29/03/19 |  |
-| 30/03/19 |  |
-| 31/03/19 |  |
-| 01/04/19 |  |
-| 02/04/19 |  |
-| 03/04/19 |  |
-| 04/04/19 |  |
-| 05/04/19 |  |
-| 06/04/19 |  |
-| 07/04/19 |  |
-| 08/04/19 |  |
-| 09/04/19 |  |
-| 10/04/19 |  |
-| 11/04/19 |  |
-| 12/04/19 |  |
-| 13/04/19 |  |
-| 14/04/19 |  |
-| 15/04/19 |  |
-| 16/04/19 |  |
-| 17/04/19 |  |
-| 18/04/19 |  |
-| 19/04/19 |  |
-| 20/04/19 |  |
-| 21/04/19 |  |
-| 22/04/19 |  |
-| 23/04/19 |  |
-| 24/04/19 |  |
-| 25/04/19 |  |
-| 26/04/19 |  |
-| 27/04/19 |  |
-| 28/04/19 |  |
-| 29/04/19 |  |
-| 30/04/19 |  |
-| 31/04/19 |  |
-| 01/05/19 |  |
-| 02/05/19 |  |
-| 03/05/19 |  |
-| 04/05/19 |  |
-| 05/05/19 |  |
+| 26/03/19 | 3D-model V0.2, Led Connection Server |
+| 27/03/19 | Making Order list, calculating materials |
+| 28/03/19 | Pytobot Startup first meeting |
+| 29/03/19 | Camera Stream, completing Stage V0.2|
+| 31/03/19 | Starting with Print V0.3  |
+| 04/04/19 | Completing Eagle Schematic V0.3  |
+| 05/04/19 | Control and start Soldering V0.3 |
+| 06/04/19 | Soldering V0.3 |
+| 10/04/19 | First technincal meeting startup |
+| 11/04/19 | Control V0.3, Starting with OLED |
+| 12/04/19 | Buisniss meeting, Pytobot Testing V0.2 |
+| 13/04/19 | Oled Get IP Addr |
+| 14/04/19 | Site and adding CS name for gitbook |
+| 15/04/19 | Prepering Presentation Pytobot|
+| 16/04/19 | Starting Print V0.4  |
+| 17/04/19 | Soldering V0.4 |
+| 18/04/19 | Eagle scematic for print V1.0 |
+| 23/04/19 | Ordering V1.0 |
+| 29/04/19 | Adding Kill switch, Montage 3D-Print V2 |
+| 30/04/19 | Print V2 Completing |
+| 02/05/19 | Adding hardware to print v1 |
+| 03/05/19 | Documentation Gitbook |
+| 04/05/19 | Documentation Gitbook |
 | 06/05/19 |  |
 | 07/05/19 |  |
 | 08/05/19 |  |
