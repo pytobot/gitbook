@@ -52,6 +52,18 @@ git config --global credential.helper store
 git pull
 ```
 
+## Setup a local hotspot
+
+{% embed url="https://www.raspberrypi.org/documentation/configuration/wireless/access-point.md" %}
+
+
+
+## setup a share
+
+{% embed url="https://www.raspberrypi.org/documentation/configuration/wireless/access-point.md" %}
+
+
+
 ## setup a share
 
 {% embed url="https://vives.gitbook.io/iot-devices/developing-apps-for-the-rpi/05\_developing\_apps\_for\_rpi\#setting-up-a-share" %}
