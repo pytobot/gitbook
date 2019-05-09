@@ -37,9 +37,9 @@
 | 02/05/19 | Adding hardware to print v1 |
 | 03/05/19 | Documentation Gitbook |
 | 04/05/19 | Documentation Gitbook |
-| 06/05/19 | Setup a share and print On Oled |
-| 07/05/19 |  |
-| 08/05/19 |  |
+| 06/05/19 | Setup a share and print Ip Add Oled |
+| 07/05/19 | Looking into possible connections with Pytobot |
+| 08/05/19 | Set SSID and PASSWD on the Share and Oled |
 | 09/05/19 |  |
 | 10/05/19 |  |
 | 11/05/19 |  |

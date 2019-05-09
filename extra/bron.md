@@ -40,6 +40,10 @@
 
 {% embed url="https://learn.adafruit.com/mcp3008-spi-adc/python-circuitpython" %}
 
+## Open webpage
+
+{% embed url="http://sirlagz.net/2013/08/23/how-to-captive-portal-on-the-raspberry-pi/" %}
+
 
 
 1. 
