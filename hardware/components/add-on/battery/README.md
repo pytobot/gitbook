@@ -103,3 +103,5 @@ For the project we use 2x 3.6V 3400mAh battery.
 * 
 {% file src="../../../../.gitbook/assets/1048p.PDF" %}
 
+{% file src="../../../../.gitbook/assets/1048p \(1\).PDF" %}
+
