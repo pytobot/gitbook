@@ -11,7 +11,7 @@
 * [electronic](hardware/components/README.md)
   * [Controller](hardware/components/controller.md)
   * [components](hardware/components/add-on/README.md)
-    * [Battery input](hardware/components/add-on/battery/README.md)
+    * [Battery](hardware/components/add-on/battery/README.md)
       * [DC DC converter](hardware/components/add-on/battery/dc-dc-converter.md)
       * [Power management](hardware/components/add-on/battery/power-managment.md)
     * [Kill switch](hardware/components/add-on/kill-switch.md)

@@ -1,4 +1,4 @@
-# Battery input
+# Battery
 
 ## FENIX ARB-L18-3400 RECHARGEABLE 18650 BATTERY
 
@@ -101,7 +101,7 @@ For the project we use 2x 3.6V 3400mAh battery.
 * DC-DC converter \[7.2-5V\]  3
   * Led 2
 * 
-{% file src="../../../../.gitbook/assets/1048p.PDF" %}
+{% file src="../../../../.gitbook/assets/1048p \(1\).PDF" caption="SMT Polarized Holder" %}
 
-{% file src="../../../../.gitbook/assets/1048p \(1\).PDF" %}
+
 
