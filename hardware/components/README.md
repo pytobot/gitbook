@@ -4,7 +4,45 @@
 Add picture of the car with all the parts and a short explanation 
 {% endhint %}
 
-## 
+## Components
+
+#### \[1\] Controller
+
+{% page-ref page="controller.md" %}
+
+#### \[2\] Battery
+
+{% page-ref page="add-on/battery/" %}
+
+#### \[3\] H-Bridge
+
+{% page-ref page="add-on/h-bridge.md" %}
+
+#### \[4\] Motor
+
+#### \[5\] Line Sensor
+
+{% page-ref page="sensors/line-sensor.md" %}
+
+#### \[7\] Distance Sensor
+
+{% page-ref page="sensors/distance-sensor.md" %}
+
+#### \[8\] Oled
+
+{% page-ref page="sensors/oled.md" %}
+
+#### \[9\] Switch
+
+#### \[10\] PCB
+
+#### \[11\] TOP
+
+#### \[12\] Bottom
+
+#### \[13\] Wheel
+
+#### \[14\] Tire
 
 ### hardware
 
