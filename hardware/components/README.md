@@ -12,7 +12,7 @@ Add picture of the car with all the parts and a short explanation
 
 #### \[2\] Battery
 
-{% page-ref page="add-on/battery/" %}
+{% page-ref page="add-on/power-managment/battery.md" %}
 
 #### \[3\] H-Bridge
 

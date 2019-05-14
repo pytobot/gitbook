@@ -32,3 +32,7 @@ On/Off Switch.
 
 ![](../../.gitbook/assets/screenshot-2019-05-05-at-16.42.39.png)
 
+## Version 2.0 PCB
+
+![](../../.gitbook/assets/screenshot-2019-05-14-at-17.13.09.png)
+
