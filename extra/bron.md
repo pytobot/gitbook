@@ -44,6 +44,10 @@
 
 {% embed url="http://sirlagz.net/2013/08/23/how-to-captive-portal-on-the-raspberry-pi/" %}
 
+## Diode mosfet
+
+{% embed url="https://www.youtube.com/watch?v=g2lIY2KF\_6Y" %}
+
 
 
 1. 
