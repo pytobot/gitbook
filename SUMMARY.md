@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Multi control open source robot for universal programming education \[PYTOBOT\]](README.md)
-* [Pytobot V1](pytobot-v1.md)
+* [Pytobot](pytobot-v1.md)
 
 ## hardware
 

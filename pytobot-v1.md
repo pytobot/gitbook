@@ -1,17 +1,19 @@
-# Pytobot V1
+---
+description: Intro Thesis
+---
 
-## Pytobot V1 
+# Pytobot
 
-Price: 150
+## preface
 
-The Pytobot V1 is focused on the basic of programming, 
+\[Woord vooraf\]
 
-### Included 
 
-* Raspberry Pi 
-* Motors
-* 3D Design
-* Battery
+
+## Abstract
+
+\[Samenvatting\]
+
 * * * 
 
 
