@@ -5,8 +5,8 @@
 ## About
 
 The DIY Project is based on 3D Modeling,   
-by Implementing 3D Modeling you will have an easy build and low cost car.   
-You can costimate you're own design by changing colors or diffrent parts.
+by Implementing 3D Modeling, there is an easy build and low cost car.   
+That hase the possibility to costimate and change design by colors and diffrent parts.
 
 ## Specs
 
