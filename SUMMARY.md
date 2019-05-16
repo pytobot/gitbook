@@ -6,7 +6,7 @@
 ## hardware
 
 * [3D-Print](hardware/3d-print/README.md)
-  * [Version 1](hardware/3d-print/version-1.md)
+  * [Design V1.0.0](hardware/3d-print/version-1.md)
 * [Soldering / Assembling](hardware/soldering/README.md)
   * [Versions](hardware/soldering/versions.md)
 * [electronic](hardware/components/README.md)
