@@ -1,6 +1,6 @@
 # DC DC converter
 
-
+**PICTURE R78B5**
 
 ## R-78B5
 
@@ -28,16 +28,20 @@ From the 7.2V input Battery we need to step down to 5V for the following control
 
 ### AN7805
 
-At first we used the AN7805 to have an 5V regulator that has the possebilty to regulate until 1A.  
-By further mesurgments we came to the conclution that the usage of the LED's  above the 1A came.
+At first the **AN7805 DC DC step down** was used to have an 5V regulator that has the possebilty to regulate until 1A. By further measurements came the conclution that the devices takes to much current to control the output without using an Heat Sink 
 
-The AN7805 has a low effecientie and loses a lot with Heat. TOo resolve the heat we need a Van
+> _AN7805 has a low efficient and loses a lot with Heat._
+
+
 
 ![AN7805CV](../../../../.gitbook/assets/to-220.jpg)
 
-The AN78xx series and the AN78xxF series are 3-pin, fixed positive output type monolithic voltage regu- lators. Stabilised fixed output voltage is obtained from unstable DC input voltage without using any external components.
+The AN78xx series and the AN78xxF series are 3-pin, fixed positive output type monolithic voltage  
+ regulators. Stabilised fixed output voltage is obtained from unstable DC input voltage without using any external components.
 
 {% hint style="danger" %}
-Needs Heat Sink when using &gt;200 mA
+Needs Heat Sink
 {% endhint %}
+
+
 
