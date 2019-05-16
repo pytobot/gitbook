@@ -14,7 +14,6 @@
   * [components](hardware/components/add-on/README.md)
     * [Kill switch](hardware/components/add-on/kill-switch.md)
     * [Power management](hardware/components/add-on/power-managment/README.md)
-      * [Untitled](hardware/components/add-on/power-managment/untitled.md)
       * [DC DC converter](hardware/components/add-on/power-managment/dc-dc-converter.md)
       * [Battery](hardware/components/add-on/power-managment/battery.md)
       * [Battery Life](hardware/components/add-on/power-managment/battery-life.md)
