@@ -11,8 +11,6 @@ turn the robot on and read the ip addres from the device.
 ## installing software
 
 ```text
-git clone https://github.com/pytobot/pytobot.git
-
 #pip3 install --upgrade pip
 
 sudo apt update
@@ -20,6 +18,7 @@ sudo apt upgrade
 
 #install git
 sudo apt install git
+git clone https://github.com/pytobot/pytobot.git
 
 #install I2C tools
 sudo apt install i2c-tools
