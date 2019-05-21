@@ -79,7 +79,7 @@ macaddr_acl=0
 auth_algs=1
 ignore_broadcast_ssid=0
 wpa=2
-wpa_passphrase=PASSWD
+wpa_passphrase=PASSWORD
 wpa_key_mgmt=WPA-PSK
 wpa_pairwise=TKIP
 rsn_pairwise=CCMP
@@ -172,7 +172,7 @@ PASSWD=$((10000000 + RANDOM % 9999999))
 echo $PASSWD
 
 sudo sed -i "s/SSIDNAME/$SSID/g" /etc/hostapd/hostapd.conf
-sudo sed -i "s/PASSWD/$PASSWD/g" /etc/hostapd/hostapd.conf
+sudo sed -i "s/PASSWORD/$PASSWD/g" /etc/hostapd/hostapd.conf
 
 sudo systemctl unmask hostapd
 sudo systemctl enable hostapd
