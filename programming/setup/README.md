@@ -25,7 +25,6 @@ sudo apt install i2c-tools
 
 #install pip
 sudo apt install python3-pip
-#sudo apt install python-pip
 
 #install led drivers
 sudo pip3 install adafruit-circuitpython-neopixel

@@ -195,6 +195,12 @@ add the folowing code above exit 0
 ./home/pi/pytobot/acc_point_update
 ```
 
+Print SSID and PASSWD
+
+```text
+sudo python3 pytobot/screen/screen.py 
+```
+
 {% hint style="warning" %}
 TODO: At this moment the script wil search for SSIDNAME and PASSWD in the conf file. The first time on startup the SSIDNAME and PASSWD will be changed to the MACADDR and Random PASSWD, But after that its not possible to change it anymore. Thats not a problem as long the SD CARD Stays in the same controller with the Same MACADDR. 
 {% endhint %}
