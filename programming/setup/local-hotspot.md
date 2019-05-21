@@ -10,6 +10,7 @@ Install the required software \(dnsmasq and hostapd\) with this command:
 
 ```text
 sudo apt update
+sudo apt upgrade
 sudo apt install dnsmasq hostapd
 ```
 
@@ -192,13 +193,13 @@ sudo nano /etc/rc.local
 add the folowing code above exit 0
 
 ```text
-./home/pi/pytobot/acc_point_update
+~/home/pi/pytobot/acc_point_update
 ```
 
 Print SSID and PASSWD
 
 ```text
-sudo python3 pytobot/screen/screen.py 
+sudo python3 ~/pytobot/screen/screen.py
 ```
 
 {% hint style="warning" %}

@@ -32,7 +32,7 @@
 * [setup](programming/setup/README.md)
   * [Local Hotspot](programming/setup/local-hotspot.md)
   * [Local Share](programming/setup/local-share.md)
-  * [Scripts](programming/setup/script.md)
+  * [SystemD](programming/setup/script.md)
   * [Nodered](programming/setup/nodered.md)
 * [API](programming/api.md)
 * [front-end](programming/front-end.md)
