@@ -34,3 +34,15 @@ On/Off Switch.
 
 ## Version 2.0 PCB
 
+### Troubleshoot
+
+Add resistor to ground to the BCM\_16 to pull everything down when raspberry pi is down. 
+
+Via's smaller
+
+Screw's the right size
+
+change distance sensor to RX pin
+
+Lower Q7 and Q1 to fit the camera
+
