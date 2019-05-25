@@ -1,5 +1,15 @@
 # Kill switch
 
+## Kill Switch
+
+Before shutting down the circuit the raspberry Pi must go in shutdown. 
+
+{% hint style="danger" %}
+If the raspberry Pi isnt shutdown propperly you can corrupt the SD card!
+{% endhint %}
+
+To give the raspberry Pi an proper shutdown 
+
 ![](../../../.gitbook/assets/kill_3-copy_4.png)
 
 #### 

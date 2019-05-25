@@ -25,24 +25,30 @@ On/Off Switch.
 
 ![](../../.gitbook/assets/img_3615-copy.jpg)
 
-## Version 1.0 PCB 
+## Version 0.5 PCB 
 
 Controlling H-Bridge, Motors, LED's Line Sensor's Distance Sensor, Oled, GDoF,  
 On/Off Switch.  
 
-![](../../.gitbook/assets/screenshot-2019-05-05-at-16.42.39.png)
+![](../../.gitbook/assets/a713f79a-dcf2-4669-ae03-5ea1c64fb7e3_1_0_1.png)
 
-## Version 2.0 PCB
+## Version 1.0 PCB
 
-### Troubleshoot
+![](../../.gitbook/assets/0a3b964b-c420-445c-a626-979100233cd0_1_0_1.png)
 
-Add resistor to ground to the BCM\_16 to pull everything down when raspberry pi is down. 
+### Improvements
 
-Via's smaller
+While Testing the first 1.0 PCB some minor and major eassues came up. 
 
-Screw's the right size
-
-change distance sensor to RX pin
-
-Lower Q7 and Q1 to fit the camera
+1. Make use of smaller Via's
+2. The screws From the Raspberry Pi zero change to wither.
+3. Distance sensor on pin RX
+4. Lower the electronics so the camera camble can fit in the raspberry Pi
+5. Change the moter circuit to the raspberry Pi circuit. dont need Q3 anymore
+6. IC1 higher because the fet comes out of the pcb
+7. Change some io's to have less via's.
+8. Change the value of the Restores
+9. Add positve and negative side at the capacitor sine
+10. Change the value of the capacitors
+11. change the 2 pin screw connectors to the right size
 
