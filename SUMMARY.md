@@ -5,7 +5,7 @@
 
 ## hardware
 
-* [3D-Print](hardware/3d-print/README.md)
+* [Design](hardware/3d-print/README.md)
   * [Design V1.0.0](hardware/3d-print/version-1.md)
 * [Soldering / Assembling](hardware/soldering/README.md)
   * [Versions](hardware/soldering/versions.md)
@@ -39,6 +39,7 @@
 
 ## Extra
 
+* [TODO](extra/todo.md)
 * [log](extra/log.md)
 * [Try Error](extra/try-error/README.md)
   * [Battery](extra/try-error/battery.md)

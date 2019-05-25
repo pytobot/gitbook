@@ -1,9 +1,8 @@
 # Design V1.0.0
 
-## About
+## Integration
 
-In the first design was the main fucos to go for an wide model where all the sensors and PCB fit in.  
-Looking for an nice functional design. 
+The first design is designed to have an _all fit_ _model_. To have a small box where all the hardware is together for testing and driving the robot. 
 
 <table>
   <thead>
@@ -70,11 +69,17 @@ Looking for an nice functional design.
   </tbody>
 </table>## Remarks
 
-* Width of the button needs to be wither
-* Screws need to be already inside. 
-* Little hole with the battey holder under Right
-* Wire holes on the battery wider. and only left
-* The Top needs to be tighter
-* Lower Top
-* Holes for the plastic from the moters less big
+While working with the first design it was possible to see the problemns and where to improve the design
+
+1. The Switch didn't fit in the provided space. The widht needs to be 2mm more.
+2. To have an easier way to montage its better to provide a place for the screws head.
+3. The battery Holder has an extra mount that coms out. The model needs an extra hole right onder corner. 
+4. Add an on light when the switch is on. 
+5. The top needs to be tighter
+6. add an place to screw top and bottum 
+7. Screws for the Distance sensor
+8. The holes for the motor gear can be smaller in the wall. 
+9. Add holes for the PCB
+
+
 

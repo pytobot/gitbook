@@ -1,14 +1,15 @@
-# 3D-Print
-
-![](../../.gitbook/assets/pytobot_02.jpg)
+# Design
 
 ## About
 
-The DIY Project is based on 3D Modeling,   
-by Implementing 3D Modeling, there is an easy build and low cost car.   
-That hase the possibility to costimate and change design by colors and diffrent parts.
+The Design is based on 3D Modeling. The 3D Printing is used to make a custom model to be able to easy modify the design in the development stage. While continuing the project there were where several versions made while testing diffrent hardware. 
 
-## Specs
+## Integration
+
+3D printing is integrated on the project as a way to have a low cost an costumable car.  
+With 3D Printing filaments there is the possebilty to go as creative as you want to change colors and materials. 
+
+## Specifications
 
 The 3D Design includes:
 

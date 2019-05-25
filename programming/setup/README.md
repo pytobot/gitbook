@@ -42,6 +42,9 @@ sudo pip3 install picamera
 sudo pip3 install adafruit-circuitpython-ssd1306
 sudo apt install python3-pil
 
+#install MCP3008
+sudo pip3 install adafruit-circuitpython-mcp3xxx
+
 Escape19
 
 git config --global user.email "sybrenmarechal@icloud.com"
