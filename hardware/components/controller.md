@@ -16,13 +16,19 @@ The Raspberry Pi is the brain of the Pytobot.
 The computer runs ****[**Raspbian Stretch Lite 2019-04-08**](https://www.raspberrypi.org/downloads/raspbian/) ****operating system.
 
 {% hint style="info" %}
-Raspbian  is a [Debian](https://en.wikipedia.org/wiki/Debian)-based OS for Raspberry PI.
+Raspbian is a [Debian](https://en.wikipedia.org/wiki/Debian)-based OS for Raspberry PI.
 {% endhint %}
 
 The Raspberry Pi is used as an Router that creates a wifi hotspot.  
 By connecting to this hotspot the robot can be controlled and programmed.
 
+## Raspbian
+
+
+
 ## Python
+
+
 
 
 
