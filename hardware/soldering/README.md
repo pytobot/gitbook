@@ -2,7 +2,7 @@
 
 ## Assembling the project
 
-By connecting the sensors and motors with Screw terminals it makes the connection really easy.  
+By connecting the sensors and motors with screw terminals it makes the connection really easy.  
 
 ![](../../.gitbook/assets/screenshot-2019-04-12-at-15.14.58.png)
 

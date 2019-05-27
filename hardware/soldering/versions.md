@@ -40,15 +40,15 @@ On/Off Switch.
 
 While Testing the first 1.0 PCB some minor and major eassues came up. 
 
-1. Make use of smaller Via's
-2. The screws From the Raspberry Pi zero change to wither.
-3. Distance sensor on pin RX
-4. Lower the electronics so the camera camble can fit in the raspberry Pi
-5. Change the moter circuit to the raspberry Pi circuit. dont need Q3 anymore
+1. Make use of smaller via's
+2. Make the screw hole's from the Raspberry Pi zero to 2.5mm.
+3. Change distance sensor on pin RX
+4. Lower the electronics so the camera cable can fit in the raspberry Pi
+5. Change the motor circuit to the raspberry Pi circuit. do not need Q3 anymore
 6. IC1 higher because the fet comes out of the pcb
 7. Change some io's to have less via's.
-8. Change the value of the Restores
-9. Add positve and negative side at the capacitor sine
+8. Change the value of the restores
+9. Add positve and negative side at the capacitor sign
 10. Change the value of the capacitors
 11. change the 2 pin screw connectors to the right size
 

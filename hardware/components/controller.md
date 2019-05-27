@@ -45,3 +45,11 @@ By connecting to this hotspot the robot can be controlled and programmed.
 * Composite video and reset headers
 * CSI camera connector
 
+## Reference List
+
+Raspberry Pi Zero- Raspberry Pi \[[SOURCE](https://www.raspberrypi.org/products/raspberry-pi-zero-w/)\]  
+Raspbian- Raspberry Pi 
+
+  
+
+

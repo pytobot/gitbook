@@ -88,3 +88,24 @@ WantedBy=multi-user.target
 
 ```
 
+## Shutdown
+
+The following script shuts down the raspberry PI
+
+```python
+from subprocess import call
+import RPi.GPIO as GPIO            # import RPi.GPIO module
+from time import sleep             # lets us have a delay
+GPIO.setmode(GPIO.BCM)
+GPIO.setup(20, GPIO.IN)           # set GPIO24 as an input
+
+
+while True:
+    if GPIO.input(20):
+        print('Input was HIGH')
+    else:
+        print('Input was LOW')
+        call("sudo shutdown -h now", shell=True)
+
+```
+

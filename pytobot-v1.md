@@ -6,31 +6,31 @@ description: Intro Thesis
 
 ## Intro
 
-**Pytobot** is a DIY 3D-print **low-cost Rover** that will bring you step by step into the world of IOT.   
-It takes electronics, 3D modeling and IOT together into a tailor-made **project for 10-16 year olds.**
+**Pytobot** is a DIY 3D-print **low-cost Rover** that will bring you step by step into the world of IoT.   
+It takes electronics, 3D modeling and IoT together into a tailor-made **project young kids**
 
 **Programming** can be quite overwhelming for starters. With the Pytobot we want to make the step smaller and make programming more **accessible for children**.   
 With a full **REST interface** that controlls the robot, you will be able to have control on multiple ways for different levels of programming. 
 
-![](.gitbook/assets/screenshot-2019-03-27-at-19.18.55.png)
+![](.gitbook/assets/screenshot-2019-05-27-at-15.29.30.png)
 
 ## Communication and Control 
 
 The Pytobot is build on a **REST interface and JSON communication**.   
-What gives us the advantage that the Pytobot can be **controlled** from **any framework and program** thats connected to the network. 
+This gives us the advantage that the Pytobot can be **controlled** from **any framework and program** that has been connected to the network. 
 
 ### Network
 
-The connection with the Robot goes by connecting to the hotspot from the raspberry Pi.   
+The connection with the Robot is delivered by connecting to the hotspot from the raspberry Pi.   
 You will be able to read the SSID and password from the Oled screen. 
 
-When connected to the hotspot. A browser will open with the toturial and startup config to control the Robot.
+When connected to the hotspot. A browser will show the toturial and startup config to control the Robot.
 
 ## Education and purpose
 
-The Pytobot is an Low cost & Easy control device. What makes programming and configuring the robot acceceble for everyone at every programming level. 
+The Pytobot is an low cost & easy control device. What makes programming and configuring the robot accessible for everyone at every programming level. 
 
-The Pytobot is devided in 2 departments:
+The Pytobot is devided in 2 main topics:
 
 * Hardware
 * Programming
