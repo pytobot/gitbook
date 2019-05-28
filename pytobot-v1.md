@@ -7,9 +7,9 @@ description: Intro Thesis
 ## Intro
 
 **Pytobot** is a DIY 3D-print **low-cost Rover** that will bring you step by step into the world of IoT.   
-It takes electronics, 3D modeling and IoT together into a tailor-made **project young kids**
+It takes electronics, 3D modeling and IoT together into a tailor-made project ****for **kids.**
 
-**Programming** can be quite overwhelming for starters. With the Pytobot we want to make the step smaller and make programming more **accessible for children**.   
+**Programming** can be quite overwhelming for starters. The Pytobot makes step smaller and becomes programming more **accessible for children**.   
 With a full **REST interface** that controlls the robot, you will be able to have control on multiple ways for different levels of programming. 
 
 ![](.gitbook/assets/screenshot-2019-05-27-at-15.29.30.png)
@@ -17,12 +17,25 @@ With a full **REST interface** that controlls the robot, you will be able to hav
 ## Communication and Control 
 
 The Pytobot is build on a **REST interface and JSON communication**.   
-This gives us the advantage that the Pytobot can be **controlled** from **any framework and program** that has been connected to the network. 
+This gives the advantage that the Pytobot can be **controlled** from **any framework and program** that is connected to the **network** of the Raspberry Pi. 
+
+{% hint style="info" %}
+JSON is an [open-standard](https://en.wikipedia.org/wiki/Open_standard) [file format](https://en.wikipedia.org/wiki/File_format) that uses [human-readable](https://en.wikipedia.org/wiki/Human-readable_medium) text to transmit data objects
+{% endhint %}
+
+### RESTful API
+
+The Rest interface is used to **communicate** from the **frontend** \(controller\) to the **backend** \(Pytobot\). A RESTful API is an application program interface \(API\) that uses **HTTP Requests** to communicates through the network.
 
 ### Network
 
-The connection with the Robot is delivered by connecting to the hotspot from the raspberry Pi.   
-You will be able to read the SSID and password from the Oled screen. 
+The connection from backend to frontend is established through the network.   
+To wake up this network, the Raspberry Pi is enabled as router with an internap AP   
+
+
+
+
+The connection with the Robot is established by connecting to the hotspot from the raspberry Pi. You will be able to read the SSID and password from the Oled screen. 
 
 When connected to the hotspot. A browser will show the toturial and startup config to control the Robot.
 
