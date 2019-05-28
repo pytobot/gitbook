@@ -92,20 +92,40 @@ WantedBy=multi-user.target
 
 The following script shuts down the raspberry PI
 
+```text
+sudo nano /etc/systemd/system/shutdown.service
+```
+
+```text
+[Unit]
+Description=My service
+
+[Service]
+ExecStart=/usr/bin/python3 -u shutdown.py
+WorkingDirectory=/home/pi/pytobot/systemD
+StandardOutput=inherit
+StandardError=inherit
+Restart=always
+User=pi
+
+[Install]
+WantedBy=multi-user.target
+```
+
+```text
+sudo systemctl start shutdown.service
+sudo systemctl enable shutdown.service
+```
+
 ```python
 from subprocess import call
 import RPi.GPIO as GPIO            # import RPi.GPIO module
-from time import sleep             # lets us have a delay
 GPIO.setmode(GPIO.BCM)
-GPIO.setup(20, GPIO.IN)           # set GPIO24 as an input
-
+GPIO.setup(20, GPIO.IN)           # set GPIO20 as an input
 
 while True:
-    if GPIO.input(20):
-        print('Input was HIGH')
-    else:
-        print('Input was LOW')
+    if not GPIO.input(20):
+        print('SYSTEM SHUTDOWN')
         call("sudo shutdown -h now", shell=True)
-
 ```
 
