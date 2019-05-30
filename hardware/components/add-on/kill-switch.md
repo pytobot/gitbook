@@ -19,21 +19,32 @@ While putting Q1 High C1 will start charging. And BCM\_20 of the Raspberry Pi wi
 
 #### When SWITCH =&gt; OFF 
 
-5V will go thrue the Diode and gives 5V to the Gate of the mosfet.   
-The current will flew from the Source to the Drain. and the raspberry Pi will activite.
+The remaining Votage before D1 will drain through R1 to the ground.   
+So BCM\_20 will become LOW. And the following code will run.
 
-When the Raspberry Pi is up pin 08 will go UP.   
-Pin 26 will recieve 5V.
+```python
+ if not GPIO.input(20):
+        print('SYSTEM SHUTDOWN')
+        call("sudo shutdown -h now", shell=True)
+```
 
-#### When S2 =&gt; '0'
+C1 will Load off his voltage to the Raspberry Pi, so that the Raspberry Pi has enough time to execute the command and shut down propperly 
 
-current will flow thrue R2 and pin 26 will recieve 0V.   
-`When 26 == Down   
-  {  
-  sudo shutdown now   
-  }`
+### RC Time Constant 
 
-Raspberry Pi will shutdown but to be shure that pin 8 stays high C1 will give the raspberry the power to have enoufh time to properly Shutdown. When the raspberry Pi is shutdown. Pin 8 will go Flyng state and the current will drain thrue R1. The system is back to default mode. 
+![](../../../.gitbook/assets/rc1.gif)
+
+{% hint style="info" %}
+Time constant is a measurement of the time needed to charge or discharge a capacitor by ~63.2% of the differenece between the old value and new value after an impulse that induces a change has been applied.
+{% endhint %}
+
+$$
+t(ms) = R(π) * C(uF) = 10 000* 3300 =  33000
+$$
+
+$$
+T(s)=33 seconds
+$$
 
 ## IRFZ44N
 
