@@ -4,7 +4,7 @@
 
 The first prototype is made on a breadboard. In the first protype is the main functionality to power the devices. The input power is 7.2V because later in the project the power source will change from an Voltage Regulator to 2X 3.6V battery's. This input power is used to power the H-bridge that controls the motors. 
 
-The DC-DC converter is used to convert the battery input to 5V to power on the raspberry Pi.
+The DC-DC converter is used to regulate the battery input to 5V to power on the raspberry Pi.
 
 {% hint style="danger" %}
 While using the Breadbord there was an 0.2 voltage drop throug the circuit. Breadboards are good for testing. But if you want a stady desing. Soldering is the solution. 
@@ -14,13 +14,13 @@ While using the Breadbord there was an 0.2 voltage drop throug the circuit. Brea
 
 ## Version 0.2
 
-The second version of the print was made to get rid of the voltage drop throug the circuit and have a more stady design. Screw terminals where added  to have a more easy connection with the hardware. Because the DC-DC converter cant take more than 1A and the LED's take more than 1A. 2 extra DC-DC converters where added for 2 extra LED strips. Also an diod is added to the circuit to secuire the devices if the battery's would not placed correctly and pot power on the ground. The condensator was added to have a more stady circuit for the raspberry pi
+The second version of the print was made to get rid of the voltage drop throug the circuit and have a more stady design. Screw terminals where added  to have a more easy connection with the hardware. Because the DC-DC regulator cant take more than 1A and the LED's take more than 1A. 2 extra DC-DC regulators where added for 2 extra LED strips. Also an diod is added to the circuit to secuire the devices if the battery's would not placed correctly and pot power on the ground. The condensator was added to have a more stady circuit for the raspberry pi
 
 ![](../../.gitbook/assets/img_3614-copy.jpg)
 
 ## Version 0.3
 
-Controlling H-Bridge, Motors, LED's Line Sensor's Distance Sensor, Oled, GDoF
+In the 3th design, heat sinks where added.Because the voltage regulation creates a lot of heat and couldnt handle the heat for a long time. also new screw terminals where added to control the H-Bridge, Motors, LED's, Line Sensor's, Distance Sensor, Oled & 9DoF, 
 
 ![](../../.gitbook/assets/img_3612-copy.jpg)
 
