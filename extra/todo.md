@@ -7,11 +7,12 @@
   * [ ] Line sensor
   * [ ] Motors
 * [ ] PCB
-  * [ ] Battery Magerment \(ADC\)
+  * [x] Battery Magerment \(ADC\)
 * [ ] Testing Line Sensors
   * [ ] New design 
   * [ ] Lower design
 * [ ] Testing Distance Sensors
-* [ ] 
+* [ ] When Under 5V message op screen and shutdown
+
 
 
