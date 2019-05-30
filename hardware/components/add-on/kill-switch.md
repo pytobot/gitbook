@@ -48,12 +48,17 @@ $$
 
 ## IRFZ44N
 
-  
-The IRFZ44N is an _n-channel_ enhancement mode power MOSFET manufactured by International Rectifier Corporation, in a TO-220 package. It has a continuous drain current of 49 A at 25 °C, and 35 A at 100 °C, making it an ideal component for switched mode power supplies, and general switching applications. This MOSFET has an operating temperature of 175 °C and therefore a heatsink is vital.
+**IRFZ44N** belongs to the family of  N-channel Power [MOSFETs](https://www.theengineeringprojects.com/2018/02/introduction-to-mosfet.html), covered in plasteic body and uses **“Trench”** technology. Its features include very low on state resistance, high speed processing technology, completely avalanche rated etc. Push pull systems and full bridge are few of its real life applications.
+
+IRF-Z44N has a few major features. For this project the IRFZ44N is used for his **Fast switching capability and ultra low charge on the gate**
 
 ![](../../../.gitbook/assets/irfz44n_circuit.gif)
 
+## Datascheet
 
+{% file src="../../../.gitbook/assets/irfz44npbf-1227773.pdf" %}
 
+## References
 
+Electronic Components- Syed Zain Nasir\(9/10/17\)\[[SOURCE](https://www.theengineeringprojects.com/2017/09/introduction-to-irfz44n.html)\]
 
