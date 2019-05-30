@@ -39,12 +39,10 @@ Time constant is a measurement of the time needed to charge or discharge a capac
 {% endhint %}
 
 $$
-t(ms) = R(π) * C(uF) = 10 000* 3300 =  33000
+t(s) = R(π) * C(F) = 10 000* 3,3 =  33 seconds
 $$
 
-$$
-T(s)=33 seconds
-$$
+Where τ is measured in seconds, R in Ohms and C in Farads.
 
 ## IRFZ44N
 
