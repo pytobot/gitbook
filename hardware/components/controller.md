@@ -38,25 +38,10 @@ Make sure that your home network is an other network than **192.168.4.0/24**
 
 If your home network is in the same range you can change the network in the [Local Hotspot](https://docs.pytobot.com/programming/setup/local-hotspot) configuration.
 
-
-
-### Specs
-
-* 802.11 b/g/n wireless LAN
-* Bluetooth\(R\) 4.1
-* Bluetooth Low Energy \(BLE\)
-* 1GHz, single-core CPU
-* 512MB RAM
-* Mini HDMI and USB On-The-Go ports
-* Micro USB power
-* HAT-compatible 40-pin header pins
-* Composite video and reset headers
-* CSI camera connector
-
 ## Reference List
 
 Raspberry Pi Zero- Raspberry Pi \[[SOURCE](https://www.raspberrypi.org/products/raspberry-pi-zero-w/)\]  
-Raspbian- Raspberry Pi 
+Raspbian- Raspberry Pi \[[SOURCE](https://www.raspberrypi.org/downloads/)\]
 
   
 

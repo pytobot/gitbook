@@ -10,9 +10,7 @@ If the raspberry Pi isnt shutdown propperly you can corrupt the SD card!
 
 To give the raspberry Pi an proper shutdown 
 
-![](../../../.gitbook/assets/kill_3-copy_4.png)
-
-#### 
+![](../../../.gitbook/assets/screenshot-2019-05-30-at-20.33.13.png)
 
 #### When S1 =&gt; '1'
 
