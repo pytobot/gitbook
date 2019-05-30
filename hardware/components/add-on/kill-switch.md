@@ -2,7 +2,7 @@
 
 ## Kill Switch
 
-The raspberry Pi needs a proper shutdown before the power goes of, otherwhise your SD card can be curropted. To shutdown the Raspberry Pi the command `sudo shutdown now` must be executed.
+The raspberry Pi needs a proper shutdown before the power goes of, otherwhise your SD card can be curropted. To shutdown the Raspberry Pi the command `sudo shutdown -h now` must be executed.
 
 {% hint style="danger" %}
 If the raspberry Pi isnt shutdown propperly you can corrupt the SD card!
@@ -15,7 +15,7 @@ If the raspberry Pi isnt shutdown propperly you can corrupt the SD card!
 The 5V from the DC reguator will go through D1 and will power the Gate of Q1.  
 While putting Q1 High C1 will start charging. And BCM\_20 of the Raspberry Pi will go up.
 
-![](../../../.gitbook/assets/screenshot-2019-05-30-at-20.33.13.png)
+![Shutdown circuit](../../../.gitbook/assets/screenshot-2019-05-30-at-20.33.13.png)
 
 #### When SWITCH =&gt; OFF 
 
@@ -32,7 +32,7 @@ C1 will Load off his voltage to the Raspberry Pi, so that the Raspberry Pi has e
 
 ### RC Time Constant 
 
-![](../../../.gitbook/assets/rc1.gif)
+![Time constant curve](../../../.gitbook/assets/rc1.gif)
 
 {% hint style="info" %}
 Time constant is a measurement of the time needed to charge or discharge a capacitor by ~63.2% of the differenece between the old value and new value after an impulse that induces a change has been applied.
@@ -42,7 +42,7 @@ $$
 t(s) = R(π) * C(F) = 10 000* 3,3 =  33 seconds
 $$
 
-Where τ is measured in seconds, R in Ohms and C in Farads.
+The shutdown time of the raspberry pi is +-20 seconds, to be sure of an an proper shutdown 33 seconds is used. 
 
 ## IRFZ44N
 
@@ -50,7 +50,7 @@ Where τ is measured in seconds, R in Ohms and C in Farads.
 
 IRF-Z44N has a few major features. For this project the IRFZ44N is used for his **Fast switching capability and ultra low charge on the gate**
 
-![](../../../.gitbook/assets/irfz44n_circuit.gif)
+![IRFZ44N](../../../.gitbook/assets/irfz44n_circuit.gif)
 
 ## Datascheet
 
