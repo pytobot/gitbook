@@ -8,4 +8,9 @@
 | JSON |  |
 | API | application program interface |
 | AP  | acces point |
+| PCB | Printed Circuit Board |
+| I²C | Inter-Integrated Circuit |
+| SPI | Serial Peripheral Interface  |
+
+
 

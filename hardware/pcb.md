@@ -1,4 +1,4 @@
-# Versions
+# Circuit Board
 
 ## Version 0.1
 
@@ -10,7 +10,7 @@ The DC-DC converter is used to regulate the battery input to 5V to power on the 
 While using the Breadbord there was an 0.2 voltage drop throug the circuit. Breadboards are good for testing. But if you want a stady desing. Soldering is the solution. 
 {% endhint %}
 
-![Pytobot print V0.1](../../.gitbook/assets/img_5078-2-copy.jpg)
+![Pytobot print V0.1](../.gitbook/assets/img_5078-2-copy.jpg)
 
 ## Version 0.2
 
@@ -20,7 +20,7 @@ The second version of the print was made to get rid of the voltage drop throug t
 
 
 
-![](../../.gitbook/assets/img_3614-copy.jpg)
+![](../.gitbook/assets/img_3614-copy.jpg)
 
 ## Version 0.3
 
@@ -29,19 +29,19 @@ In the 3th design, heat sinks where added.Because the voltage regulation creates
 On the print all the connection from the raspberry pi where connected by extra jumpers.  
 This was done to have a possibility to quickly chanche IO Pins and test different situations. 
 
-![](../../.gitbook/assets/img_3612-copy.jpg)
+![](../.gitbook/assets/img_3612-copy.jpg)
 
 ## Version 0.4
 
 After Version 0.3 the power on/off switch was added. To be able to shutdown the raspberry pi on a save way. In version 0.4 tests where done to see how to handle the heat without using heat sinks. Because heat sinks takes a lot of extra space. 
 
-![](../../.gitbook/assets/img_3615-copy.jpg)
+![](../.gitbook/assets/img_3615-copy.jpg)
 
 ## Version 1.0 PCB
 
 After testing the first 5 designs the PCB came in place. the design of this pcb was made to fit in the robot and has all the functionalities to test all of the senors and. Also an on/off switch is added to shutdown the raspberry pi properly. To fit all of the screw terminals on the print. A smaller screw terminal was used with a wide of 3.5mm. Also the raspberry pi is integraded as an add-on to the print.
 
-![](../../.gitbook/assets/0a3b964b-c420-445c-a626-979100233cd0_1_0_1.png)
+![](../.gitbook/assets/0a3b964b-c420-445c-a626-979100233cd0_1_0_1.png)
 
 ### Improvements
 

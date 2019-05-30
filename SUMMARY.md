@@ -7,9 +7,8 @@
 
 * [Design](hardware/3d-print/README.md)
   * [Design V1.0.0](hardware/3d-print/version-1.md)
-* [Soldering / Assembling](hardware/soldering/README.md)
-  * [Versions](hardware/soldering/versions.md)
-* [electronic](hardware/components/README.md)
+* [Circuit Board](hardware/pcb.md)
+* [Electronic](hardware/components/README.md)
   * [Controller](hardware/components/controller.md)
   * [components](hardware/components/add-on/README.md)
     * [Kill switch](hardware/components/add-on/kill-switch.md)
@@ -26,6 +25,7 @@
     * [Distance Sensor](hardware/components/sensors/distance-sensor.md)
     * [Line Sensor](hardware/components/sensors/line-sensor.md)
     * [OLED](hardware/components/sensors/oled.md)
+    * [camera](hardware/components/sensors/camera.md)
 
 ## Programming
 
