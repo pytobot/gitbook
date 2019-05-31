@@ -33,7 +33,7 @@ Vout = \frac{Vs*R5}{R4+R5} \newline --------  \newline
 5V ≈ \frac{7V2*150K}{100K+150K}
 $$
 
-![MCP3008](../../../../.gitbook/assets/screenshot-2019-05-31-at-16.58.36.png)
+![](../../../../.gitbook/assets/screenshot-2019-05-31-at-17.25.33.png)
 
 ### Code
 
