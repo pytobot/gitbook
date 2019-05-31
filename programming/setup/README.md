@@ -10,7 +10,9 @@ turn the robot on and read the ip addres from the device.
 
 ## installing software
 
-```text
+{% code-tabs %}
+{% code-tabs-item title="script" %}
+```bash
 #pip3 install --upgrade pip
 
 sudo apt update
@@ -51,5 +53,14 @@ git config --global user.email "sybrenmarechal@icloud.com"
 git config --global user.name "sybren-marechal"
 git config --global credential.helper store
 git pull
+```
+{% endcode-tabs-item %}
+{% endcode-tabs %}
+
+execute Script. 
+
+```text
+chmod +X script
+sudo -Y ./script
 ```
 

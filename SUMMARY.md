@@ -16,7 +16,7 @@
       * [DC DC converter](hardware/components/add-on/power-managment/dc-dc-converter.md)
       * [Battery](hardware/components/add-on/power-managment/battery.md)
       * [Battery Life](hardware/components/add-on/power-managment/battery-life.md)
-    * [Polarity Protection](hardware/components/add-on/polarity-protection.md)
+      * [Polarity Protection](hardware/components/add-on/power-managment/polarity-protection.md)
     * [H-Bridge](hardware/components/add-on/h-bridge.md)
   * [output](hardware/components/sensors/README.md)
     * [LED-Strip](hardware/components/sensors/led-strip.md)

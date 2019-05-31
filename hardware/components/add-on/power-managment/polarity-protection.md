@@ -4,5 +4,5 @@
 
 ## Datasheet
 
-{% file src="../../../.gitbook/assets/fqp27p06-1300948-2.pdf" %}
+{% file src="../../../../.gitbook/assets/fqp27p06-1300948-2.pdf" %}
 
