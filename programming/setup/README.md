@@ -15,6 +15,9 @@ turn the robot on and read the ip addres from the device.
 ```bash
 #pip3 install --upgrade pip
 
+#Enable I2C
+#Enable SPI
+
 sudo apt update
 sudo apt upgrade 
 

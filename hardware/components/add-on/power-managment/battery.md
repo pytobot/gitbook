@@ -16,22 +16,26 @@ On full power the robot batteries can last for approximately 45 minutes
 
 ## Battery Voltage
 
-To be able to secure the components and the controller. A voltage detection is needed to shutdown the circuit when the batteries drop below the minimum. 
+To be able to secure the components and the controller. A voltage detection is needed to shutdown the circuit when the batteries drop below the minimum voltage. 
 
 {% hint style="warning" %}
-The Raspberry Pi computer does not have a way to read analog inputs. It's a digital-only computer.
+The Raspberry Pi doesn’t have ****a way to read analog inputs. It's a digital-only device.
 {% endhint %}
 
-![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-La0d0m_n5WeIuwPKggN%2F-LdxtCp3PEfmMmehdjSJ%2F-LdyLT6i57B1-3AmUv0I%2F856-01.jpg?alt=media&token=b29ad416-0f57-4869-8cf6-3aa45b669a48)
+To solve the problem of only analoge in. An ADC is a added to convert Analoge to Digital.
 
-###  <a id="adc"></a>
+### Voltage Divider
 
-**​**[**https://github.com/aboudou/picheckvoltage**](https://github.com/aboudou/picheckvoltage)**​**  
-  
+A voltage divider circuit is a very common circuit that takes a higher voltage and converts it to a lower one by using a pair of resistors. The formula for calculating the output voltage is based on Ohms Law and is shown below.
 
+$$
+Vout = \frac{Vs*R5}{R4+R5} \newline --------  \newline
+5V ≈ \frac{7V2*150K}{100K+150K}
+$$
 
-* 
-{% file src="../../../../.gitbook/assets/1048p \(1\).PDF" caption="SMT Polarized Holder" %}
+![MCP3008](../../../../.gitbook/assets/screenshot-2019-05-31-at-16.58.36.png)
 
+### Code
 
+The following code shutdown the raspberry Pi when the voltage goes under 5V. 
 

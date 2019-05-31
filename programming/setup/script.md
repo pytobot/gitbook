@@ -170,10 +170,16 @@ WantedBy=multi-user.target
 
 To start and enable the the service the following code is used.
 
+{% hint style="danger" %}
+Only enable this service when the raspberry Pi is inside the PCB. Or Pin 20 needs to have a manual High pin
+{% endhint %}
+
+{% hint style="warning" %}
 ```text
 sudo systemctl start shutdown.service
 sudo systemctl enable shutdown.service
 ```
+{% endhint %}
 
 By executing the start command the following code wil run:
 
