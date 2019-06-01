@@ -11,6 +11,7 @@
 | PCB | Printed Circuit Board |
 | I²C | Inter-Integrated Circuit |
 | SPI | Serial Peripheral Interface  |
+| STL | stereolithography |
 
 
 

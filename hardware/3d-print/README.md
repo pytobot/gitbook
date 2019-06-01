@@ -18,32 +18,25 @@ By using this technology in the project, the proccess of testing goes a lot quic
 
 > The advantages of using 3D Printing is that you have the possibility proceed quickly in testing and updating the design to implement the new features or updates.
 
+## Download
 
 
-## Specifications
 
-The 3D Design includes:
+| Name  | File | Material | Quantity  |
+| :--- | :--- | :--- | :--- |
+| Top.stl | DOWNLOAD | ABS | 1 |
+| Bottem.stm | DOWNLOAD | ABS | 1 |
+| Wheel\_left.stl | DOWNLOAD | ABS | 2 |
+| Wheel\_right.stl | DOWNLOAD | ABS | 2 |
+| Tire.stl | DOWNLOAD | TPE | 4 |
 
-* Top 1X
-* Bottom 1X 
-* Wheel Left 2X
-* Wheel Right 2X 
-* Tires 4X
-
-The Design is made to include the following parts:
-
-* PCB
-* Motors
-* H-Bridge
-* Battery Holder
-* Distance Sensor
-* Line Sensor
-* Oled
-* Switch
-* 
 ## Reference List
 
 3D Printing\(\)- Ultimaker \[[SOURCE](https://ultimaker.com/en/explore/what-is-3d-printing)\]
+
+{% embed url="https://www.lifewire.com/stl-files-2255" %}
+
+
 
 
 
