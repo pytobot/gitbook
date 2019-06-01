@@ -1,5 +1,15 @@
 # Electronic
 
+## Electronic
+
+The key until a succesfull project is a strong foundation.   
+The electronic chapter explance the story of the harware inside the pytobot. What perpose does every comonent has, and how are they all connected to the main goal
+
+Inside this chapter, each peace of harware is taken separtly and is explaind in detail what there function is inside the main Project. Why this pertitcly hardware is used, en how it is used.
+
+> Peaple who are really serious about software, schould make there own hardware   
+>  \[Alan Key - computer scientist\]
+
 {% hint style="info" %}
 Add picture of the car with all the parts and a short explanation 
 {% endhint %}
