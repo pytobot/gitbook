@@ -40,30 +40,25 @@
 | 06/05/19 | Setup a share and print Ip Add Oled |
 | 07/05/19 | Looking into possible connections with Pytobot |
 | 08/05/19 | Set SSID and PASSWD on the Share and Oled |
-| 09/05/19 |  |
-| 10/05/19 |  |
-| 11/05/19 |  |
-| 12/05/19 |  |
-| 13/05/19 |  |
-| 14/05/19 |  |
-| 15/05/19 |  |
-| 16/05/19 |  |
-| 17/05/19 |  |
-| 18/05/19 |  |
-| 19/05/19 |  |
-| 20/05/19 |  |
-| 21/05/19 |  |
-| 22/05/19 |  |
-| 23/05/19 |  |
-| 24/05/19 |  |
-| 25/05/19 |  |
-| 26/05/19 |  |
-| 27/05/19 |  |
-| 28/05/19 |  |
-| 29/05/19 |  |
-| 30/05/19 |  |
-| 31/05/19 |  |
-| 01/06/19 |  |
+| 09/05/19 | Documentation Gitbook |
+| 10/05/19 | Creating new 3D Design |
+| 11/05/19 | Documentation Gitbook, Updating Order List |
+| 13/05/19 | Asssambeling 3D Model  Preperation for PCB Design |
+| 14/05/19 | Documentation Gitbook, PCB Design |
+| 15/05/19 | PCB Design, Testing Hardware |
+| 16/05/19 | Documentation Gitbook |
+| 17/05/19 | Soldering Hardware |
+| 20/05/19 | Soldering Hardware, Assembling Hardware |
+| 21/05/19 | Soldering Hardware, Testing Motors, updating software |
+| 23/05/19 | Problemsolving Motor circuit PCB |
+| 24/05/19 | PCB Testing, Bugfixing. Documentation Gitbook |
+| 25/05/19 | Documentation Gitbook, Updating software |
+| 27/05/19 | 3D print assambeling, Documentation Gitbook |
+| 28/05/19 | Documentation Gitbook |
+| 29/05/19 | Documentation Gitbook, PCB design |
+| 30/05/19 | Documentation Gitbook, PCB design |
+| 31/05/19 | Distance Sensor, PCB Testing |
+| 01/06/19 | Order List, PCB Design, Documentation Gitbook   |
 | 02/06/19 |  |
 | 03/06/19 |  |
 | 04/06/19 |  |
@@ -76,7 +71,7 @@
 | 11/06/19 |  |
 | 12/06/19 |  |
 | 13/06/19 |  |
-| 14/06/19 |  |
+| 14/06/19 | PRESENTATION |
 | 15/06/19 |  |
 | 16/06/19 |  |
 | 17/06/19 |  |
