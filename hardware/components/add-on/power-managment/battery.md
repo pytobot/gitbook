@@ -29,13 +29,23 @@ To solve the problem of only analoge in. An ADC is a added to convert Analoge to
 A voltage divider circuit is a very common circuit that takes a higher voltage and converts it to a lower one by using a pair of resistors. The formula for calculating the output voltage is based on Ohms Law and is shown below.
 
 $$
-Vout = \frac{Vs*R5}{R4+R5} \newline --------  \newline
+Vout = \frac{Vs*R5}{R4+R5}
+$$
+
+$$
 5V ≈ \frac{7V2*150K}{100K+150K}
 $$
 
-![](../../../../.gitbook/assets/screenshot-2019-05-31-at-17.25.33.png)
+![](../../../../.gitbook/assets/screenshot-2019-05-31-at-17.26.25.png)
 
 ### Code
 
 The following code shutdown the raspberry Pi when the voltage goes under 5V. 
+
+## Polarity Protection
+
+when Gate = '0' voltage will go source to the drain.  
+When Gate = '1' The voltage would not go the drain
+
+![](../../../../.gitbook/assets/screenshot-2019-05-31-at-17.41.39.png)
 

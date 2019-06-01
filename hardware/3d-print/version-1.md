@@ -80,6 +80,7 @@ While working with the first design it was possible to see the problems and wher
 7. Screws for the distance sensor
 8. The holes for the motor gear can be smaller in the wall. 
 9. Add holes for the PCB
+10. Distance sensor needs to come further 
 
 
 
