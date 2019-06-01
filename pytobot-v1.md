@@ -1,7 +1,3 @@
----
-description: Intro Thesis
----
-
 # Pytobot
 
 ## Intro
@@ -30,10 +26,11 @@ The Rest interface is used to **communicate** from the **frontend** \(controller
 ### Network
 
 The connection from backend to frontend is established through the network.   
-To wake up this network, the Raspberry Pi is enabled as router with an internap AP   
+To wake up this network, the Raspberry Pi is enabled as router with an internap AP 
 
-
-
+{% hint style="info" %}
+TODO
+{% endhint %}
 
 The connection with the Robot is established by connecting to the hotspot from the raspberry Pi. You will be able to read the SSID and password from the Oled screen. 
 
