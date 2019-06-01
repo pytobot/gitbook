@@ -22,7 +22,7 @@ By using this technology in the project, the proccess of testing goes a lot quic
 
 
 
-| Name  | File | Material | Quantity  |
+| Name  | Download | Material | Quantity  |
 | :--- | :--- | :--- | :--- |
 | Top.stl | DOWNLOAD | ABS | 1 |
 | Bottem.stm | DOWNLOAD | ABS | 1 |
