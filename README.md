@@ -6,11 +6,7 @@ description: Thesis 2019 By Sybren Maréchal.
 
 ## preface
 
-\[Woord vooraf\]
-
 
 
 ## Abstract
-
-\[Samenvatting\]
 
