@@ -1,4 +1,4 @@
-# DC DC converter
+# Voltage regulation
 
 ## R-78B05
 

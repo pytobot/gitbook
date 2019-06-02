@@ -1,4 +1,4 @@
-# Battery
+# Battery input
 
 ## FENIX ARB-L18-3400 RECHARGEABLE 18650 BATTERY
 
@@ -46,6 +46,10 @@ The following code shutdown the raspberry Pi when the voltage goes under 5V.
 
 when Gate = '0' voltage will go source to the drain.  
 When Gate = '1' The voltage would not go the drain
+
+{% embed url="https://www.youtube.com/watch?v=g2lIY2KF\_6Y" %}
+
+
 
 ![](../../../../.gitbook/assets/screenshot-2019-05-31-at-17.41.39.png)
 

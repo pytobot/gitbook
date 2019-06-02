@@ -28,7 +28,7 @@ So BCM\_20 will become LOW. And the following code will run.
         call("sudo shutdown -h now", shell=True)
 ```
 
-C1 will Load off his voltage to the Raspberry Pi, so that the Raspberry Pi has enough time to execute the command and shut down propperly 
+C1 will Load off his voltage to the Raspberry Pi, so that the Raspberry Pi has enough time to execute the command and shut down properly 
 
 ### RC Time Constant 
 

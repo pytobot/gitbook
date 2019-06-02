@@ -22,6 +22,8 @@ By using this technology in the project, the proccess of testing goes a lot quic
 
 The most common [3D printer](https://www.lifewire.com/3d-printers-ratings-2265) file format is the .STL file. The file format is believed to have been created by 3D Systems from its **ST**ereo**L**ithography CAD software and machines.
 
+![](../.gitbook/assets/cadvsstl-5c814ba746e0fb00018bd92e.jpg)
+
 An easy-to-understand definition of the STL file format explains it as a triangular representation of a 3D object. A CAD drawing shows smooth lines for the circles, where an STL drawing shows the surface of that circle as a series of connected triangles.
 
 ## Download
@@ -33,6 +35,25 @@ An easy-to-understand definition of the STL file format explains it as a triangu
 | Wheel\_left.stl | DOWNLOAD | ABS | 2 |
 | Wheel\_right.stl | DOWNLOAD | ABS | 2 |
 | Tire.stl | DOWNLOAD | TPE | 4 |
+
+## Print Version 1
+
+![](../.gitbook/assets/pytobot_02.jpg)
+
+### Remarks
+
+While working with the first design it was possible to see the problems and where to improve the design
+
+1. The Switch didn't fit in the provided space. The width needs to be 2mm more.
+2. To have an easier way to assemble its better to provide a place for the screws head.
+3. The battery holder has an extra mount that comes out. The model needs an extra hole right onder corner. 
+4. Add a on/off LED when the switch is on. 
+5. The top needs to be tighter
+6. add a place to screw top and bottum 
+7. Screws for the distance sensor
+8. The holes for the motor gear can be smaller in the wall. 
+9. Add holes for the PCB
+10. Distance sensor needs to come further 
 
 ## Reference List
 

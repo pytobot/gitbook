@@ -6,7 +6,7 @@
 
 The Raspberry Pi is a small credit-card-sized computer.With the addition of wireless LAN and Bluetooth, the Raspberry Pi Zero W is ideal for making embedded Internet of Things \(IoT\) projects. The Pi Zero W has been designed to be as flexible and compact as possible with mini connectors and an unpopulated 40-pin GPIO, allowing you to use only what an project requires
 
-![Raspberry Pi Zero W](../../.gitbook/assets/raspberry-pi-zero-462x322.jpg)
+![](../../.gitbook/assets/assets-la0d0m_n5weiuwpkggn-ldgxzvlgt5ragc_ep4w-ldgyoswjtydkmr362-h-raspberry-pi-zero-462x322.png)
 
 ## Integration
 

@@ -5,17 +5,15 @@
 
 ## hardware
 
-* [Design](hardware/3d-print/README.md)
-  * [Design V1.0.0](hardware/3d-print/version-1.md)
+* [Design](hardware/3d-print.md)
 * [Circuit Board](hardware/pcb/README.md)
   * [Controller](hardware/pcb/controller.md)
   * [Enhancement](hardware/pcb/add-on/README.md)
     * [Kill switch](hardware/pcb/add-on/kill-switch.md)
-    * [Battery](hardware/pcb/add-on/battery/README.md)
-      * [DC DC converter](hardware/pcb/add-on/battery/dc-dc-converter.md)
-      * [Polarity Protection](hardware/pcb/add-on/battery/polarity-protection.md)
+    * [Battery input](hardware/pcb/add-on/battery/README.md)
+      * [Voltage regulation](hardware/pcb/add-on/battery/dc-dc-converter.md)
 * [Electronic](hardware/components/README.md)
-  * [H-Bridge](hardware/components/h-bridge.md)
+  * [Motor](hardware/components/h-bridge.md)
   * [LED-Strip](hardware/components/led-strip.md)
   * [Micro Servo](hardware/components/micro-servo.md)
   * [9DoF Sensor](hardware/components/9dof-sensor.md)
@@ -31,7 +29,6 @@
   * [Local Share](programming/setup/local-share.md)
   * [SystemD](programming/setup/script.md)
   * [Nodered](programming/setup/nodered.md)
-* [API](programming/api.md)
 * [front-end](programming/front-end.md)
 
 ## Extra
