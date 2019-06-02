@@ -18,13 +18,13 @@ Add picture of the car with all the parts and a short explanation
 
 ### Controller
 
-| NR. | Name | Discription | Mouser-ID | Quantity |
+| Nr. | Name | Discription | Mouser-ID | Quantity |
 | :--- | :--- | :--- | :--- | :--- |
 | 1 | Raspberry Pi |  | 713-110991027 |  |
 
 ### PCB
 
-| NR. | Name | Discription | Mouser-ID | Quantity |
+| Nr. | Name | Discription | Mouser-ID | Quantity |
 | :--- | :--- | :--- | :--- | :--- |
 | 2 | R-78B5.0 | DC regulator | 713-110991027 |  |
 | 3 | 27P06 | P-channel Mosfet | 512-FQP27P06 |  |
@@ -39,7 +39,7 @@ Add picture of the car with all the parts and a short explanation
 
 ### Hardware
 
-| NR. | Name | Discription | Mouser-ID | Quantity |
+| Nr. | Name | Discription | Mouser-ID | Quantity |
 | :--- | :--- | :--- | :--- | :--- |
 | 12 | Camera Cable | Cam to Raspberry Pi | 474-PRT-14272 |  |
 | 13 | Camera | wide lence camera | 713-114990838 |  |
@@ -55,7 +55,7 @@ Add picture of the car with all the parts and a short explanation
 
 ### Extra
 
-| R. | Name | Discription | Mouser-ID | Quantity |
+| Nr. | Name | Discription | Mouser-ID | Quantity |
 | :--- | :--- | :--- | :--- | :--- |
 | 23 | Screw terminal  | 2 pin | 474-PRT-08084 |  |
 | 24 | Screw terminal |  3 pin | 474-PRT-08235 |  |
