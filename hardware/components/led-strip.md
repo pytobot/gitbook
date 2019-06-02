@@ -2,7 +2,7 @@
 
 ## Adafruit Digital RGBW Led Strip
 
-![](../../../.gitbook/assets/giphy-2.gif)
+![](../../.gitbook/assets/giphy-2.gif)
 
 
 

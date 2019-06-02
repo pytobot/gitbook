@@ -2,7 +2,7 @@
 
 ## 
 
-![](../../../.gitbook/assets/938-12.jpg)
+![](../../.gitbook/assets/938-12.jpg)
 
 ## About
 
@@ -54,13 +54,13 @@ def Print(self):
 
 ```
 
-![](../../../.gitbook/assets/img_3704-copy.jpg)
+![](../../.gitbook/assets/img_3704-copy.jpg)
 
 ## Troubleshooting 
 
 ### Scrambled Screen
 
-![Scrambled Screen](../../../.gitbook/assets/img_2994.jpg)
+![Scrambled Screen](../../.gitbook/assets/img_2994.jpg)
 
 It's the pin for the RESET line. In transferring from library to my working code, I omitted to re-edit the definition of the reset pin. If it's not working, check that RST is wired to the correct pin, and that it is set for output. The reset is necessary for both the SPI and and I2C versions with the Adafruit library. \[[SOURCE](http://engineeringnotes.blogspot.com/2015/03/why-is-oled-display-scrambled-random.html)\]
 
@@ -90,7 +90,7 @@ ValueError: No I2C device at address: 3d
 
 You should see the following, indicating that address **0x3d** \(the OLED display\) was found
 
-![I2C address 3D](../../../.gitbook/assets/screenshot-2019-04-13-at-14.13.53.png)
+![I2C address 3D](../../.gitbook/assets/screenshot-2019-04-13-at-14.13.53.png)
 
 {% code-tabs %}
 {% code-tabs-item title="screen/screen.py" %}
@@ -106,5 +106,5 @@ Change the address: "**addr=0x3d**" to the addres what whas found in the _I2Cdet
 
 ## Datasheet
 
-{% file src="../../../.gitbook/assets/ssd1306.pdf" %}
+{% file src="../../.gitbook/assets/ssd1306.pdf" %}
 
