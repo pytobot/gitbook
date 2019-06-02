@@ -18,9 +18,13 @@ By using this technology in the project, the proccess of testing goes a lot quic
 
 > The advantages of using 3D Printing is that you have the possibility proceed quickly in testing and updating the design to implement the new features or updates.
 
+## **ST**ereo**L**ithography \(STL\)
+
+The most common [3D printer](https://www.lifewire.com/3d-printers-ratings-2265) file format is the .STL file. The file format is believed to have been created by 3D Systems from its **ST**ereo**L**ithography CAD software and machines.
+
+An easy-to-understand definition of the STL file format explains it as a triangular representation of a 3D object. A CAD drawing shows smooth lines for the circles, where an STL drawing shows the surface of that circle as a series of connected triangles.
+
 ## Download
-
-
 
 | Name  | Download | Material | Quantity  |
 | :--- | :--- | :--- | :--- |
@@ -32,11 +36,8 @@ By using this technology in the project, the proccess of testing goes a lot quic
 
 ## Reference List
 
-3D Printing\(\)- Ultimaker \[[SOURCE](https://ultimaker.com/en/explore/what-is-3d-printing)\]
-
-{% embed url="https://www.lifewire.com/stl-files-2255" %}
-
-
+3D Printing- Ultimaker \[[SOURCE](https://ultimaker.com/en/explore/what-is-3d-printing)\]  
+STL Files- Lifewire \[[SOURCE](https://www.lifewire.com/stl-files-2255)\]
 
 
 
