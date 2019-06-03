@@ -1,5 +1,9 @@
 # Circuit Board
 
+## Circuit Board
+
+
+
 ## Version 0.1
 
 The first prototype is made on a breadboard. In the first protype is the main functionality to power the devices. The input power is 7.2V because later in the project the power source will change from an Voltage Regulator to 2X 3.6V battery's. This input power is used to power the H-bridge that controls the motors. 
