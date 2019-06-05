@@ -5,36 +5,27 @@
 
 ## hardware
 
-* [Design](hardware/3d-print/README.md)
-  * [Design V1.0.0](hardware/3d-print/version-1.md)
-* [Soldering / Assembling](hardware/soldering/README.md)
-  * [Versions](hardware/soldering/versions.md)
-* [electronic](hardware/components/README.md)
-  * [Controller](hardware/components/controller.md)
-  * [components](hardware/components/add-on/README.md)
-    * [Kill switch](hardware/components/add-on/kill-switch.md)
-    * [Power management](hardware/components/add-on/power-managment/README.md)
-      * [DC DC converter](hardware/components/add-on/power-managment/dc-dc-converter.md)
-      * [Battery](hardware/components/add-on/power-managment/battery.md)
-      * [Battery Life](hardware/components/add-on/power-managment/battery-life.md)
-    * [Polarity Protection](hardware/components/add-on/polarity-protection.md)
-    * [H-Bridge](hardware/components/add-on/h-bridge.md)
-  * [output](hardware/components/sensors/README.md)
-    * [LED-Strip](hardware/components/sensors/led-strip.md)
-    * [Micro Servo](hardware/components/sensors/micro-servo.md)
-    * [9DoF Sensor](hardware/components/sensors/9dof-sensor.md)
-    * [Distance Sensor](hardware/components/sensors/distance-sensor.md)
-    * [Line Sensor](hardware/components/sensors/line-sensor.md)
-    * [OLED](hardware/components/sensors/oled.md)
+* [Design](hardware/3d-print.md)
+* [Circuit Board](hardware/pcb/README.md)
+  * [Controller](hardware/pcb/controller/README.md)
+    * [Kill switch](hardware/pcb/controller/kill-switch.md)
+    * [Battery input](hardware/pcb/controller/battery/README.md)
+      * [Voltage regulation](hardware/pcb/controller/battery/dc-dc-converter.md)
+* [Electronic](hardware/components/README.md)
+  * [Motor](hardware/components/h-bridge.md)
+  * [LED-Strip](hardware/components/led-strip.md)
+  * [Distance Sensor](hardware/components/distance-sensor.md)
+  * [Line Sensor](hardware/components/line-sensor.md)
+  * [OLED](hardware/components/oled.md)
+  * [camera](hardware/components/camera.md)
 
 ## Programming
 
-* [setup](programming/setup/README.md)
+* [Software](programming/setup/README.md)
   * [Local Hotspot](programming/setup/local-hotspot.md)
   * [Local Share](programming/setup/local-share.md)
   * [SystemD](programming/setup/script.md)
   * [Nodered](programming/setup/nodered.md)
-* [API](programming/api.md)
 * [front-end](programming/front-end.md)
 
 ## Extra
@@ -45,6 +36,7 @@
   * [Battery](extra/try-error/battery.md)
   * [Frameworks](extra/try-error/frameworks.md)
 * [sources](extra/bron.md)
+* [abbreviation](extra/abbreviation.md)
 
 ## Business
 
