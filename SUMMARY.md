@@ -11,13 +11,13 @@
     * [Kill switch](hardware/circuit-board/controller/kill-switch.md)
     * [Battery input](hardware/circuit-board/controller/battery-input/README.md)
       * [Voltage regulation](hardware/circuit-board/controller/battery-input/voltage-regulation.md)
-* [Electronic](hardware/components/README.md)
-  * [Motor](hardware/components/motor.md)
-  * [LED-Strip](hardware/components/led-strip.md)
-  * [Distance Sensor](hardware/components/distance-sensor.md)
-  * [Line Sensor](hardware/components/line-sensor.md)
-  * [OLED](hardware/components/oled.md)
-  * [camera](hardware/components/camera.md)
+* [Electronic](hardware/electronic/README.md)
+  * [Motor](hardware/electronic/motor.md)
+  * [LED-Strip](hardware/electronic/led-strip.md)
+  * [Distance Sensor](hardware/electronic/distance-sensor.md)
+  * [Line Sensor](hardware/electronic/line-sensor.md)
+  * [OLED](hardware/electronic/oled.md)
+  * [camera](hardware/electronic/camera.md)
 
 ## Programming
 
