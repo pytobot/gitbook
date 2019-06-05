@@ -182,7 +182,7 @@ sudo systemctl start hostapd
 
 ### ​Execute Script from startup
 
-{% page-ref page="script.md" %}
+{% page-ref page="systemd.md" %}
 
 {% hint style="warning" %}
 TODO: At this moment the script wil search for SSIDNAME and PASSWD in the conf file. The first time on startup the SSIDNAME and PASSWD will be changed to the MACADDR and Random PASSWD, But after that its not possible to change it anymore. Thats not a problem as long the SD CARD Stays in the same controller with the Same MACADDR. 

@@ -195,3 +195,7 @@ while True:
         call("sudo shutdown -h now", shell=True)
 ```
 
+## References
+
+SystemD- Raspberry Pi\[[SOURCE](https://www.raspberrypi.org/documentation/linux/usage/systemd.md)\]
+
