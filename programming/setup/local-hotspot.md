@@ -2,8 +2,6 @@
 
 ## Setup a local hotspot
 
-{% embed url="https://www.raspberrypi.org/documentation/configuration/wireless/access-point.md" %}
-
 In order to work as an access point, the Raspberry Pi will need to have access point software installed, along with DHCP server software to provide connecting devices with a network address. Ensure that your Raspberry Pi is using an up-to-date version of Raspbian \(dated 2017 or later\).
 
 Install the required software \(dnsmasq and hostapd\) with this command:
@@ -189,4 +187,8 @@ sudo systemctl start hostapd
 {% hint style="warning" %}
 TODO: At this moment the script wil search for SSIDNAME and PASSWD in the conf file. The first time on startup the SSIDNAME and PASSWD will be changed to the MACADDR and Random PASSWD, But after that its not possible to change it anymore. Thats not a problem as long the SD CARD Stays in the same controller with the Same MACADDR. 
 {% endhint %}
+
+## References
+
+Local Hostspot- Raspberry Pi\[[SOURCE](https://www.raspberrypi.org/documentation/configuration/wireless/access-point.md)\]
 

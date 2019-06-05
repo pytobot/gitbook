@@ -2,7 +2,7 @@
 
 ## Circuit Board
 
-
+A **printed circuit board** \(**PCB**\) mechanically supports all of the electronic components.
 
 ## Version 0.1
 

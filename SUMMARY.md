@@ -7,16 +7,13 @@
 
 * [Design](hardware/3d-print.md)
 * [Circuit Board](hardware/pcb/README.md)
-  * [Controller](hardware/pcb/controller.md)
-  * [Enhancement](hardware/pcb/add-on/README.md)
-    * [Kill switch](hardware/pcb/add-on/kill-switch.md)
-    * [Battery input](hardware/pcb/add-on/battery/README.md)
-      * [Voltage regulation](hardware/pcb/add-on/battery/dc-dc-converter.md)
+  * [Controller](hardware/pcb/controller/README.md)
+    * [Kill switch](hardware/pcb/controller/kill-switch.md)
+    * [Battery input](hardware/pcb/controller/battery/README.md)
+      * [Voltage regulation](hardware/pcb/controller/battery/dc-dc-converter.md)
 * [Electronic](hardware/components/README.md)
   * [Motor](hardware/components/h-bridge.md)
   * [LED-Strip](hardware/components/led-strip.md)
-  * [Micro Servo](hardware/components/micro-servo.md)
-  * [9DoF Sensor](hardware/components/9dof-sensor.md)
   * [Distance Sensor](hardware/components/distance-sensor.md)
   * [Line Sensor](hardware/components/line-sensor.md)
   * [OLED](hardware/components/oled.md)
@@ -24,7 +21,7 @@
 
 ## Programming
 
-* [setup](programming/setup/README.md)
+* [Software](programming/setup/README.md)
   * [Local Hotspot](programming/setup/local-hotspot.md)
   * [Local Share](programming/setup/local-share.md)
   * [SystemD](programming/setup/script.md)

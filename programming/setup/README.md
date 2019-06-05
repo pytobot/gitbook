@@ -1,14 +1,39 @@
-# setup
+# Software
 
-download the image from github
+## Image
 
-Burn the image to the SD card with etcher
+In the Major version of the Pytobot is an Image included. The Image comes loaded with the last features of the software.
 
-follow the soldering instruction.
+The default features are:
 
-turn the robot on and read the ip addres from the device.
+* Battery security
+* Startup With Hotspot
+* SSID and PASSWD printed on OLED
+* Camera Stream
+* Basic toturioal to setup The API's 
+* Driving the car
+
+## Setup
+
+When you would like to start from scratch. En go the hole procuderue by yourself. This chapter will guid you thrue it. 
 
 ## installing software
+
+The following script includes all of the liberies that are needed in the software.
+
+ When you like to run the hole script in one time, use following commands
+
+```text
+touch scirpt
+nano script
+```
+
+Copy past "script" into the terminal and exit by using ctrl-x and confirm. The following code will gife the script the right premissions to execute and executes the file. 
+
+```text
+chmod +X script
+sudo -Y ./script
+```
 
 {% code-tabs %}
 {% code-tabs-item title="script" %}
@@ -59,11 +84,4 @@ git pull
 ```
 {% endcode-tabs-item %}
 {% endcode-tabs %}
-
-execute Script. 
-
-```text
-chmod +X script
-sudo -Y ./script
-```
 
