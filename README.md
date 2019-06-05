@@ -11,57 +11,36 @@ description: Thesis 2019 By Sybren Maréchal.
 ## Abstract
 
 ```text
-
-├── extra
-│   ├── abbreviation.md
-│   ├── bron.md
-│   ├── log.md
-│   ├── todo.md
-│   └── try-error
-│       ├── README.md
-│       ├── battery.md
-│       └── frameworks.md
+├── pytobot
 ├── hardware
-│   ├── 3d-print.md
-│   ├── components
-│   │   ├── README.md
-│   │   ├── camera.md
-│   │   ├── distance-sensor.md
-│   │   ├── h-bridge.md
-│   │   ├── led-strip.md
-│   │   ├── line-sensor.md
-│   │   └── oled.md
-│   └── pcb
-│       ├── README.md
-│       └── controller
-│           ├── README.md
-│           ├── battery
-│           │   ├── README.md
-│           │   └── dc-dc-converter.md
-│           └── kill-switch.md
-├── hole_pcb.xlsx
-├── node_modules
-│   └── gitbook-plugin-download-pdf-link
-│       └── book
-├── overvieuw.xlsx
-├── pdf
-│   └── add_number_asc.workflow
-│       └── Contents
-│           ├── Info.plist
-│           ├── QuickLook
-│           │   └── Preview.png
-│           └── document.wflow
+│   ├── design
+│   ├── circuit-board
+│   │   └── controller
+│   │       ├── battery-input
+│   │       │   └── voltage-regulation
+│   │       └── kill-switch
+│   └── electronic
+│       ├── camera
+│       ├── distance-sensor
+│       ├── led-strip
+│       ├── line-sensor
+│       ├── motor
+│       └── oled
 ├── programming
-│   ├── front-end.md
-│   ├── setup
-│   │   ├── README.md
-│   │   ├── local-hotspot.md
-│   │   ├── local-share.md
-│   │   ├── nodered.md
-│   │   └── script.md
-│   └── setup.md
+│   ├── software
+│   │    ├── local-hotspot
+│   │    ├── local-share│
+│   │    └── systemd
+│   └── program
+│       ├── frameworks
+│       └── front-end
+├── extra
+│   ├── abbreviation
+│   ├── goals
+│   ├── log
+│   └── sources
 └── business
-    ├── business-model-canvas.md 
-    └── curriculum.md
+    ├── business-model-canvas
+    └── curriculum
 ```
 
