@@ -1,18 +1,18 @@
 # Table of contents
 
 * [Multi control open source robot for universal programming education \[PYTOBOT\]](README.md)
-* [Pytobot](pytobot-v1.md)
+* [Pytobot](pytobot.md)
 
 ## hardware
 
-* [Design](hardware/3d-print.md)
-* [Circuit Board](hardware/pcb/README.md)
-  * [Controller](hardware/pcb/controller/README.md)
-    * [Kill switch](hardware/pcb/controller/kill-switch.md)
-    * [Battery input](hardware/pcb/controller/battery/README.md)
-      * [Voltage regulation](hardware/pcb/controller/battery/dc-dc-converter.md)
+* [Design](hardware/design.md)
+* [Circuit Board](hardware/circuit-board/README.md)
+  * [Controller](hardware/circuit-board/controller/README.md)
+    * [Kill switch](hardware/circuit-board/controller/kill-switch.md)
+    * [Battery input](hardware/circuit-board/controller/battery-input/README.md)
+      * [Voltage regulation](hardware/circuit-board/controller/battery-input/voltage-regulation.md)
 * [Electronic](hardware/components/README.md)
-  * [Motor](hardware/components/h-bridge.md)
+  * [Motor](hardware/components/motor.md)
   * [LED-Strip](hardware/components/led-strip.md)
   * [Distance Sensor](hardware/components/distance-sensor.md)
   * [Line Sensor](hardware/components/line-sensor.md)
@@ -21,22 +21,20 @@
 
 ## Programming
 
-* [Software](programming/setup/README.md)
-  * [Local Hotspot](programming/setup/local-hotspot.md)
-  * [Local Share](programming/setup/local-share.md)
-  * [SystemD](programming/setup/script.md)
-  * [Nodered](programming/setup/nodered.md)
-* [front-end](programming/front-end.md)
+* [Software](programming/software/README.md)
+  * [Local Hotspot](programming/software/local-hotspot.md)
+  * [Local Share](programming/software/local-share.md)
+  * [SystemD](programming/software/systemd.md)
+* [Program](programming/program/README.md)
+  * [Frameworks](programming/program/frameworks.md)
+  * [front-end](programming/program/front-end.md)
 
 ## Extra
 
-* [TODO](extra/todo.md)
 * [log](extra/log.md)
-* [Try Error](extra/try-error/README.md)
-  * [Battery](extra/try-error/battery.md)
-  * [Frameworks](extra/try-error/frameworks.md)
-* [sources](extra/bron.md)
 * [abbreviation](extra/abbreviation.md)
+* [sources](extra/sources.md)
+* [Goals](extra/goals.md)
 
 ## Business
 

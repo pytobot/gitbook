@@ -61,3 +61,7 @@ sudo smbpasswd -a pi
 
 **Restart the Samba service** using `sudo service smbd restart`.
 
+## References
+
+Local share- Nico de Witte\[[SOURCE](https://www.raspberrypi.org/documentation/configuration/wireless/access-point.md)\]
+
