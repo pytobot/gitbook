@@ -146,13 +146,13 @@ The following code will create _screen.service_ file.
 sudo nano /etc/systemd/system/shutdown.service
 ```
 
-The following script shuts down the raspberry PI when the shutdown button is used or the battery voltage is to low. 
+The following script shuts down the Raspberry Pi when the shutdown button is used or the battery voltage is to low. 
 
 {% code-tabs %}
 {% code-tabs-item title="shutdown.service" %}
 ```bash
 [Unit]
-Description=Shutdown raspberry pi on voltage or switch 
+Description=Shutdown Raspberry Pi on voltage or switch 
 
 [Service]
 ExecStart=/usr/bin/python3 -u shutdown.py
@@ -171,7 +171,7 @@ WantedBy=multi-user.target
 To start and enable the the service the following code is used.
 
 {% hint style="danger" %}
-Only enable this service when the raspberry Pi is inside the PCB. Or Pin 20 needs to have a manual High pin
+Only enable this service when the Raspberry Pi is inside the PCB. Or Pin 20 needs to have a manual High pin
 {% endhint %}
 
 {% hint style="warning" %}

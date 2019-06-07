@@ -44,7 +44,7 @@ $$
 
 ### Code
 
-The following code shutdown the raspberry Pi when the voltage goes under 5V. 
+The following code shutdown the Raspberry Pi when the voltage goes under 5V. 
 
 ## Polarity Protection
 

@@ -2,10 +2,10 @@
 
 ## Kill Switch
 
-The raspberry Pi needs a proper **shutdown** before the power goes of, otherwhise your SD card can be **corrupted**. To shutdown the Raspberry Pi the command **`sudo shutdown -h now`** must be executed.
+The Raspberry Pi needs a proper **shutdown** before the power goes of, otherwhise your SD card can be **corrupted**. To shutdown the Raspberry Pi the command **`sudo shutdown -h now`** must be executed.
 
 {% hint style="danger" %}
-If the raspberry Pi isnt shutdown propperly you can corrupt the SD card!
+If the Raspberry Pi isnt shutdown propperly you can corrupt the SD card!
 {% endhint %}
 
 ## Circuit
@@ -42,7 +42,7 @@ $$
 t(s) = R(π) * C(F) = 10 000* 3,3 =  33 seconds
 $$
 
-The shutdown time of the raspberry pi is +-20 seconds, to be sure of an an proper shutdown 33 seconds is used. 
+The shutdown time of the Raspberry Pi is +-20 seconds, to be sure of an an proper shutdown 33 seconds is used. 
 
 ## IRFZ44N
 

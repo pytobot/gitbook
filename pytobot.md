@@ -25,7 +25,7 @@ The Rest interface is used to **communicate** from the **front-end** \(controlle
 
 ### Network
 
-To **control** the robot **through** **the** **network**, The raspberry Pi will proceed as a router and **Access** **Point**. By accessing in the same network as the Robot. The REST communication is active and the connection from the controller to the Backend is established 
+To **control** the robot **through** **the** **network**, The Raspberry Pi will proceed as a router and **Access** **Point**. By accessing in the same network as the Robot. The REST communication is active and the connection from the controller to the Backend is established 
 
 To connect to the network an **SSID** and **password** will be printed out on the **Oled Screen** on the robot. When connected to the hotspot, a browser will pop up and will show the features of the project. 
 

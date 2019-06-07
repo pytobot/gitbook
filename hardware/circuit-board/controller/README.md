@@ -10,19 +10,19 @@ The **Raspberry Pi** is a small **credit-card-sized computer**.With the addition
 
 ## Integration
 
-The raspberry PI zero W is used because of the small size and the many IO Pins, techonology's as Ic2 and SPI busses. Also a big adventage of the Zero W is the **Wireless connectivity**. By using the wireless connectivity the raspberry Pi can host his own netwerk an functions as a router. 
+The Raspberry Pi zero W is used because of the small size and the many IO Pins, techonology's as Ic2 and SPI busses. Also a big adventage of the Zero W is the **Wireless connectivity**. By using the wireless connectivity the Raspberry Pi can host his own netwerk an functions as a router. 
 
-The biggest advantage of the raspberry Pi is the system. The raspberry Pi is an **Linux** based device. For this project, ****[**Raspbian Stretch Lite 2019-04-08**](https://www.raspberrypi.org/downloads/raspbian/) is used as operating system.  
+The biggest advantage of the Raspberry Pi is the system. The Raspberry Pi is an **Linux** based device. For this project, ****[**Raspbian Stretch Lite 2019-04-08**](https://www.raspberrypi.org/downloads/raspbian/) is used as operating system.  
 Raspbian Lite is the "clean install" of Raspbian. 
 
 {% hint style="info" %}
-Raspbian is a [Debian](https://en.wikipedia.org/wiki/Debian)-based OS for Raspberry PI.
+Raspbian is a [Debian](https://en.wikipedia.org/wiki/Debian)-based OS for Raspberry Pi.
 {% endhint %}
 
 ## Control
 
-The rapsberry Pi is programmed as a **router**. When the raspberry Pi wakes up, a network will go up. And the SSID name and PASSWORD will be put out on the Oled Screen.   
-When connected to the network. The raspberry pi is acceible by 
+The rapsberry Pi is programmed as a **router**. When the Raspberry Pi wakes up, a network will go up. And the SSID name and PASSWORD will be put out on the Oled Screen.   
+When connected to the network. The Raspberry Pi is acceible by 
 
 ```text
 ssh pi@192.168.4.1

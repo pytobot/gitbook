@@ -8,7 +8,7 @@ A **printed circuit board** \(**PCB**\) mechanically supports all of the electro
 
 The first prototype is made on a **breadboard**. In the first prototype is the main functionality to power the devices. The input power is 7.2V because later in the project the power source will change from a Voltage Regulator to 2X 3.6V battery's. This input power is used to power the H-bridge that controls the motors. 
 
-The DC-DC converter is used to regulate the battery input to 5V to power on the raspberry Pi.
+The DC-DC converter is used to regulate the battery input to 5V to power on the Raspberry Pi.
 
 {% hint style="danger" %}
 While using the Breadboard there was an **0.2 voltage drop** through the circuit. Breadboards are good for testing. But if you want a steady design. Soldering is the solution. 
@@ -18,7 +18,7 @@ While using the Breadboard there was an **0.2 voltage drop** through the circuit
 
 ## Version 0.2
 
-The **second version** of the print was **soldered** to get rid of the voltage drop through the circuit and have a more steady design. Screw terminals were added  to have an easier connection with the hardware. Because the DC-DC regulator can't take more than 1A and the LED's take more than 1A. 2 extra DC-DC regulators were added for 2 extra LED strips. Also a diode is added to the circuit to secure the devices if the battery's would not placed correctly and pot power on the ground. The condensator was added to have a more steady circuit for the Raspberry Pi
+The **second version** of the print was **soldered** to get rid of the voltage drop through the circuit and have a more steady design. Screw terminals were added  to have an easier connection with the hardware. Because the DC-DC regulator can't take more than 1A and the LED's take more than 1A. 2 extra DC-DC regulators were added for 2 extra LED strips. Also a diode is added to the circuit to secure the devices if the battery's would not placed correctly and pot power on the ground. The condensator was added to have a more steady circuit for the RasRaspberry Pi
 
 > Version 0.2 is the first design that was used with battery power to have the first tests of the motors and remote control
 
@@ -42,7 +42,7 @@ After Version 0.3 the **power** on/off **switch** was added. To be able to **shu
 
 ## Version 1.0 PCB
 
-After testing the first 5 designs the **PCB** came into place. The design of this PCB was made to fit in the robot and has all the functionalities to test all of the sensors and. To fit all of the screw terminals on the print, smaller screw terminal was used with a wide of 3.5mm. Also the Raspberry Pi is integrated as an add-on to the print.
+After testing the first 5 designs the **PCB** came into place. The design of this PCB was made to fit in the robot and has all the functionalities to test all of the sensors and. To fit all of the screw terminals on the print, smaller screw terminal was used with a wide of 3.5mm. Also theRaspberry Pii is integrated as an add-on to the print.
 
 ![](../../.gitbook/assets/0a3b964b-c420-445c-a626-979100233cd0_1_0_1.png)
 
@@ -53,8 +53,8 @@ While Testing the first 1.0 PCB some minor and major issues came up.
 1. Make use of smaller via's
 2. Make the screw hole's from the Raspberry Pi zero to 2.5mm.
 3. Change distance sensor on pin RX
-4. Lower the electronics, so the camera cable can fit in the raspberry Pi
-5. Change the motor circuit to the raspberry Pi circuit. Do not need Q3 anymore
+4. Lower the electronics, so the camera cable can fit in the Raspberry Pi
+5. Change the motor circuit to the Raspberry Pi circuit. Do not need Q3 anymore
 6. IC1 higher because the FET comes out of the PCB
 7. Change some IO's to have less via's.
 8. Change the value of the resistors

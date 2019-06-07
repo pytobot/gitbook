@@ -263,7 +263,7 @@ sudo smbpasswd -a pi
 
 Raspberry Pi try connect to network with SSID = ... PASS= ...
 
-If raspberry pi cant connect to the network it will setup as an AP. \`  
+If Raspberry Pi cant connect to the network it will setup as an AP. \`  
 
 
 
