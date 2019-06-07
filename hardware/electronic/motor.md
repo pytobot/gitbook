@@ -2,7 +2,7 @@
 
 ## Integration
 
-The motors are included in the robot to create more feedback of programming in a fun and interactive way. To have a bigger accomplishment and satisfying feeling by changing the position of the car. 
+The motors are included in the robot to create more feedback on programming in a fun and interactive way. To have a bigger accomplishment and satisfying feeling by changing the position of the car. 
 
 ## Motor Controller
 
@@ -17,7 +17,7 @@ The term H bridge is derived from the typical graphical representation of such a
 ## Motor
 
 The H-Bridge connects 2X2 DC 6-12V Motors, .   
-The motors has a maximum \(**r**evolutions **p**er **m**inute\) RPM of 789 on 12V input. The H-bridge has a 7.2V input from the battery's that reduces the RPM of the motors. To have a more precise control of the speed of each Motor. PWM is included from the H-Bridge.  
+The motors have a maximum \(**r**evolutions **p**er **m**inute\) RPM of 789 on 12V input. The H-bridge has a 7.2V input from the battery's that reduces the RPM of the motors. To have a more precise control of the speed of each Motor. PWM is included from the H-Bridge.  
 
 ## References
 

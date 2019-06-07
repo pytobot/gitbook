@@ -8,7 +8,7 @@ The Fenix ARB-L18-3400 is a **high capacity** 18650 Li-ion **rechargeable** with
 
 ## **Integration in the project.**
 
-To use the Motors an 6-12V input is required. For this project and max speed of the motors 2X 3.6V batteries are used what gives an 7.2V input voltage with 3400mAh.
+To use the Motors an 6-12V input is required. For this project and max speed of the motors 2X 3.6V batteries are used, what gives an 7.2V input voltage with 3400mAh.
 
 The Fenix ARB-L18-3400 Where used in this project because of the inter technology.  
 Prototyping With Battery Input can be dangerous and you can easily kill an Li-on Battery,  

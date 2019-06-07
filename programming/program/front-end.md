@@ -2,14 +2,14 @@
 
 ## Front-End
 
-The Pytbot is builed on Full Json communication on a REST Interface.  
-Because almost every apllication has possibyties for a  REST interface integration, the possible choices for a front-end are and-less. 
+The Pytbot is build on Full Json communication on a REST Interface.  
+Because almost every application has possibilities for a  REST interface integration, the possible choices for a front-end are and-less. 
 
-When going to flow porgramming, and having a nice and easy inveroment to start learning to program. there a plenty of programming tools. On the Pytobot, 3 front-end tools will be included to control the basic of the robot. 
+When going to flow programming, and having a nice and easy environment to start learning to program. There a plenty of programming tools. On the Pytobot, 3 front-end tools will be included to control the basic of the robot. 
 
 ## NodeRed
 
-Node-RED is a programming tool for wiring together hardware devices, APIs and online services in new and interesting ways.
+Node-RED is a programming tool for wiring hardware devices together.
 
 It provides a browser-based editor that makes it easy to wire together flows using the wide range of nodes in the palette that can be deployed to its runtime in a single-click.
 

@@ -10,7 +10,7 @@ The **Raspberry Pi** is a small **credit-card-sized computer**.With the addition
 
 ## Integration
 
-The Raspberry Pi zero W is used because of the small size and the many IO Pins, technologies as Ic2 and SPI busses. Also a big adventage of the Zero W is the **Wireless connectivity**. By using the wireless connectivity the Raspberry Pi can host his own network and functions as a router.
+The Raspberry Pi zero W is used because of the small size and the many IO Pins, technologies as Ic2 and SPI busses. Also a big advantage of the Zero W is the **Wireless connectivity**. By using the wireless connectivity the Raspberry Pi can host his own network and functions as a router.
 
 The biggest advantage of the Raspberry Pi is the system. The Raspberry Pi is a **Linux** based device. For this project, **\*\*\[**Raspbian Stretch Lite 2019-04-08\*\*\]\([https://www.raspberrypi.org/downloads/raspbian/](https://www.raspberrypi.org/downloads/raspbian/)\) is used as operating system.  
 Raspbian Lite is the "clean install" of Raspbian.

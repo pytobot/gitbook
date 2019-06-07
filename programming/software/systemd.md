@@ -1,6 +1,6 @@
 # SystemD
 
-SystemD is a system and service manager for Linux. In order to run a command or program when the Pi boots, it can be added as a service. Once this is done, the comacoand can start/stop enable/disable from the linux prompt.
+SystemD is a system and service manager for Linux. In order to run a command or program when the Pi boots, it can be added as a service. Once this is done, the command can start/stop enable/disable from the Linux prompt.
 
 Show system status:
 
@@ -73,14 +73,14 @@ WantedBy=multi-user.target
 {% endcode-tabs-item %}
 {% endcode-tabs %}
 
-To start and enable the the service the following code is used.
+To start and enable the service the following code is used.
 
 ```text
 sudo systemctl start ssid_update.service
 sudo systemctl enable ssid_update.service
 ```
 
-By executing the start command the following code wil run:
+By executing the start command the following code will run:
 
 {% code-tabs %}
 {% code-tabs-item title="acc\_point\_update.sh" %}
@@ -130,7 +130,7 @@ WantedBy=multi-user.target
 {% endcode-tabs-item %}
 {% endcode-tabs %}
 
-To start and enable the the service the following code is used.
+To start and enable the service the following code is used.
 
 ```text
 sudo systemctl start screen.service
@@ -145,7 +145,7 @@ The following code will create _screen.service_ file.
 sudo nano /etc/systemd/system/shutdown.service
 ```
 
-The following script shuts down the Raspberry Pi when the shutdown button is used or the battery voltage is to low.
+The following script shuts down the Raspberry Pi when the shutdown button is used or the battery voltage is too low.
 
 {% code-tabs %}
 {% code-tabs-item title="shutdown.service" %}
@@ -167,7 +167,7 @@ WantedBy=multi-user.target
 {% endcode-tabs-item %}
 {% endcode-tabs %}
 
-To start and enable the the service the following code is used.
+To start and enable the service the following code is used.
 
 {% hint style="danger" %}
 Only enable this service when the Raspberry Pi is inside the PCB. Or Pin 20 needs to have a manual High pin
@@ -180,7 +180,7 @@ sudo systemctl enable shutdown.service
 ```
 {% endhint %}
 
-By executing the start command the following code wil run:
+By executing the start command the following code will run:
 
 ```python
 from subprocess import call

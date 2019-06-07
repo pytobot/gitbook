@@ -3,7 +3,7 @@
 ## Intro
 
 **Pytobot** is a DIY 3D-print **low-cost Rover** that will bring you step by step into the world of IoT.  
-It takes electronics, 3D modelling and IoT together into a tailor-made project **\*\*for** kids.\*\*
+It takes electronics, 3D modelling and IoT together into a tailor-made project **for kids**.
 
 **Programming** can be quite overwhelming for the starters. The Pytobot makes step smaller and becomes programming more **accessible for children**.  
 With a full **REST interface** that controls the robot, you will be able to have control on multiple ways for different levels of programming.

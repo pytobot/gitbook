@@ -4,14 +4,14 @@ description: Thesis 2019 By Sybren Maréchal.
 
 # Multi control open source robot for universal programming education \[PYTOBOT\]
 
-## preface
+## Preface
 
 
 
 ## Abstract
 
 ```text
-├── pytobot
+├── Pytobot
 ├── hardware
 │   ├── design
 │   ├── circuit-board

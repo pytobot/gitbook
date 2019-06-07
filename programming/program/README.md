@@ -2,8 +2,8 @@
 
 ## Integration
 
-Tha main Programming Language on the Pytbot is Python.   
-The choice for python was made becaus the clouse hard-software relationship.   
+The main Programming Language on the Pytbot is Python.   
+The choice for python was made because the clause hard-software relationship.   
 Python has a lot of libraries provided with the used hardware. This makes the programming a lot more comfortable. 
 
 ## Python

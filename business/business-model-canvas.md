@@ -55,7 +55,7 @@ What Bundles of product and services are we offering?
 
 Which customer needs are we satisfying? 
 
-* Gooing deeper into the satisfaction of children and robots. 
+* Going deeper into the satisfaction of children and robots. 
 * Learning by practice
 * Quick feedback and output 
 

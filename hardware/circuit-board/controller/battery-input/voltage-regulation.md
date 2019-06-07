@@ -16,7 +16,7 @@ The input voltage of the batteries\(7.2V\) is used to power the H-bridge and the
 To use the controller and sensors, a 5V input is needed. So a step down to 5V is necessary.
 
 {% hint style="warning" %}
-The Ampere use of the LED's is variable from a lot of diffrent factors. Because the variance is so high, a separate 2A circuit is needed. 
+The Ampere use of the LED's is variable from a lot of different factors. Because the variance is so high, a separate 2A circuit is needed. 
 {% endhint %}
 
 ## Troubleshooting

@@ -1,6 +1,6 @@
 # Local Hotspot
 
-## Setup a local hotspot
+## Set up a local hotspot
 
 In order to work as an access point, the Raspberry Pi will need to have access point software installed, along with DHCP server software to provide connecting devices with a network address. Ensure that your Raspberry Pi is using an up-to-date version of Raspbian \(dated 2017 or later\).
 
