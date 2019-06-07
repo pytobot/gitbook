@@ -2,13 +2,17 @@
 
 ## FENIX ARB-L18-3400 RECHARGEABLE 18650 BATTERY
 
-The Fenix ARB-L18-3400 is a high capacity 18650 Li-ion rechargeable with a protection circuit in the anode to help prevent short circuits, over charge/discharge and over heating. The battery also includes pressure relief vents which expel waste gas in the rare case of an internal short circuit preventing an explosion.
+The Fenix ARB-L18-3400 is a **high capacity** 18650 Li-ion **rechargeable** with a protection circuit in the anode to help **prevent short circuits**, **over charge/discharge** and **over heating**. The battery also includes pressure relief vents which expel waste gas in the rare case of an internal short circuit preventing an explosion.
 
 ![](../../../../.gitbook/assets/arb-l18-3400.jpg)
 
 ## **Integration in the project.**
 
-To to use the the Motors an 6-12V input is required. For this project and max speed of the motors 2X 3.6V batteries are used what gives an 7.2V input voltage with 3400mAh. 
+To to use the the Motors an 6-12V input is required. For this project and max speed of the motors 2X 3.6V batteries are used what gives an 7.2V input voltage with 3400mAh.
+
+The Fenix ARB-L18-3400 Where used in thes porject because of the inter techonolgy.  
+Prototyping With Battery Input can be dangerous and you can easely kill an Li-on Battery,  
+so to be eable to work in the most save conditions this battery is used becaus of his intern security technology
 
 {% hint style="success" %}
 On full power the robot batteries can last for approximately 45 minutes
@@ -44,12 +48,15 @@ The following code shutdown the raspberry Pi when the voltage goes under 5V.
 
 ## Polarity Protection
 
-when Gate = '0' voltage will go source to the drain.  
-When Gate = '1' The voltage would not go the drain
+To **prevent** the circuit against **inverted polarity** by switching the input voltage or the battery's. A **P-channel** mosfet is used to secure the circuit.
 
-{% embed url="https://www.youtube.com/watch?v=g2lIY2KF\_6Y" %}
+The huge **benefit** by using a p-channel MOSFET belongs to the fact, that **no additional high side driver circuit is needed**. Compared to an n-channel MOSFET the device will be turned on by applying a negative Gate Source voltage. By referring the Gate signal to the ground line, the device is fully turned on when the battery is applied in the right polarity.
 
+**By reverse polarity**, the MOSFET will be **switched off**, because the Gate Source voltage for this case will be positive.
 
+![](../../../../.gitbook/assets/screenshot-2019-06-08-at-00.42.32.png)
 
-![](../../../../.gitbook/assets/screenshot-2019-05-31-at-17.41.39.png)
+## References
+
+Polarity Protection- Marco Pürschel\(14/01/09\)\[[SOURCE](https://www.infineon.com/dgdl/Reverse-Batery-Protection-Rev2.pdf?fileId=db3a304412b407950112b41887722615)\]
 

@@ -2,7 +2,7 @@
 
 ## Kill Switch
 
-The raspberry Pi needs a proper shutdown before the power goes of, otherwhise your SD card can be curropted. To shutdown the Raspberry Pi the command `sudo shutdown -h now` must be executed.
+The raspberry Pi needs a proper **shutdown** before the power goes of, otherwhise your SD card can be **corrupted**. To shutdown the Raspberry Pi the command **`sudo shutdown -h now`** must be executed.
 
 {% hint style="danger" %}
 If the raspberry Pi isnt shutdown propperly you can corrupt the SD card!

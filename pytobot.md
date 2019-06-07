@@ -3,10 +3,10 @@
 ## Intro
 
 **Pytobot** is a DIY 3D-print **low-cost Rover** that will bring you step by step into the world of IoT.   
-It takes electronics, 3D modeling and IoT together into a tailor-made project ****for **kids.**
+It takes electronics, 3D modelling and IoT together into a tailor-made project ****for **kids.**
 
-**Programming** can be quite overwhelming for starters. The Pytobot makes step smaller and becomes programming more **accessible for children**.   
-With a full **REST interface** that controlls the robot, you will be able to have control on multiple ways for different levels of programming. 
+**Programming** can be quite overwhelming for the starters. The Pytobot makes step smaller and becomes programming more **accessible for children**.   
+With a full **REST interface** that controls the robot, you will be able to have control on multiple ways for different levels of programming. 
 
 ![](.gitbook/assets/screenshot-2019-05-27-at-15.29.30.png)
 
@@ -21,11 +21,11 @@ JSON is an [open-standard](https://en.wikipedia.org/wiki/Open_standard) [file fo
 
 ### RESTful API
 
-The Rest interface is used to **communicate** from the **frontend** \(controller\) to the **backend** \(Pytobot\). A RESTful API is an application program interface \(API\) that uses **HTTP Requests** to communicates through the network.
+The Rest interface is used to **communicate** from the **front-end** \(controller\) to the **backend** \(Pytobot\). A RESTful API is an application program interface \(API\) that uses **HTTP Requests** to communicate through the network.
 
 ### Network
 
-To **control** the robot **through** **the** **network**, The raspberry Pi will proceed as an router and **Acces** **Point**. By accessing in the same network as the Robot. The REST communication is active and the connection from the controller to the Backend is establiched 
+To **control** the robot **through** **the** **network**, The raspberry Pi will proceed as a router and **Access** **Point**. By accessing in the same network as the Robot. The REST communication is active and the connection from the controller to the Backend is established 
 
 To connect to the network an **SSID** and **password** will be printed out on the **Oled Screen** on the robot. When connected to the hotspot, a browser will pop up and will show the features of the project. 
 
