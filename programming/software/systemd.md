@@ -1,44 +1,44 @@
 # SystemD
 
-SystemD is a system and service manager for Linux. In order to run a command or program  when the Pi boots, it can be added as a service. Once this is done, the comaand can start/stop enable/disable from the linux prompt.
+SystemD is a system and service manager for Linux. In order to run a command or program when the Pi boots, it can be added as a service. Once this is done, the comacoand can start/stop enable/disable from the linux prompt.
 
-Show system status: 
+Show system status:
 
 ```text
 systemctl status
 ```
 
-Activates the service "example1" immediately: 
+Activates the service "example1" immediately:
 
 ```text
 systemctl start example1
 ```
 
-Deactivates the service "example1" immediately: 
+Deactivates the service "example1" immediately:
 
 ```text
 # systemctl stop example1
 ```
 
-Restarts the service "example1" immediately: 
+Restarts the service "example1" immediately:
 
 ```text
  systemctl restart example1
 ```
 
-Shows status of the service "example1": 
+Shows status of the service "example1":
 
 ```text
 systemctl status example1
 ```
 
-Enables "example1" to be started on bootup: 
+Enables "example1" to be started on bootup:
 
 ```text
 systemctl enable example1
 ```
 
-Disables "example1" to not start during bootup: 
+Disables "example1" to not start during bootup:
 
 ```text
 systemctl disable example1
@@ -95,7 +95,6 @@ echo $PASSWORD
 
 sudo sed -i "s/SSIDNAME/$SSID/g" /etc/hostapd/hostapd.conf
 sudo sed -i "s/PASSWORD/$PASSWORD/g" /etc/hostapd/hostapd.conf
-
 ```
 {% endcode-tabs-item %}
 {% endcode-tabs %}
@@ -146,7 +145,7 @@ The following code will create _screen.service_ file.
 sudo nano /etc/systemd/system/shutdown.service
 ```
 
-The following script shuts down the Raspberry Pi when the shutdown button is used or the battery voltage is to low. 
+The following script shuts down the Raspberry Pi when the shutdown button is used or the battery voltage is to low.
 
 {% code-tabs %}
 {% code-tabs-item title="shutdown.service" %}

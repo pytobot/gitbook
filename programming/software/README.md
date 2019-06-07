@@ -10,25 +10,25 @@ The default features are:
 * Startup With Hotspot
 * SSID and PASSWD printed on OLED
 * Camera Stream
-* Basic toturioal to setup The API's 
+* Basic tutorial to setup The API's 
 * Driving the car
 
 ## Setup
 
-When you would like to start from scratch. En go the hole procuderue by yourself. This chapter will guid you thrue it. 
+When you would like to start from scratch. En go the whole procedure by yourself. This chapter will guide you through it. 
 
-## installing software
+## Installing software
 
-The following script includes all of the liberies that are needed in the software.
+The following script includes all of the libraries that are needed in the software.
 
- When you like to run the hole script in one time, use following commands
+ When you like to run the whole script in one time, use following commands
 
 ```text
 touch scirpt
 nano script
 ```
 
-Copy past "script" into the terminal and exit by using ctrl-x and confirm. The following code will gife the script the right premissions to execute and executes the file. 
+Copy past "script" into the terminal and exit by using Ctrl-x and confirm. The following code will give the script the right permissions to execute and executes the file. 
 
 ```text
 chmod +X script

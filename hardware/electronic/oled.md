@@ -8,7 +8,7 @@
 
 Adafruit Industries LLC
 
-These displays are small, only 1.3" diagonal, but very readable due to the high contrast of an OLED display. This display is made of 128 x 64 individual white OLED pixels, each one is turned on or off by the controller chip. Because the display makes its own light, no backlight is required. This reduces the power required to run the OLED and is why the display has such high contrast. The driver chip, SSD1306 can communicate in two ways: I²C or SPI. The OLED itself require a 3.3V power supply and 3.3V logic levels for communication, it includes a 3.3V regulator and all pins are fully level shifted so you can use with 5V devices. The power requirements depend a little on how much of the display is lit but on average the display uses about 40mA from the 3.3V supply. Built into the OLED driver is a simple switch-cap charge pump that turns 3.3V – 5V into a high voltage drive for the OLEDs.
+These displays are small, only 1.3" diagonal, but very readable due to the high contrast of an OLED display. This display is made of 128 x 64 individual white OLED pixels, each one is turned on or off by the controller chip. Because the display makes its own light, no backlight is required. This reduces the power required to run the OLED and is why the display has such high contrast. The driver chip, SSD1306 can communicate in two ways: I²C or SPI. The OLED itself require a 3.3V power supply and 3.3V logic levels for communication, it includes a 3.3V regulator and all pins are fully level shifted so you can use with 5V devices. The power requirements depend a little on how much of the display is lit, but on average the display uses about 40mA from the 3.3V supply. Built into the OLED driver is a simple switch-cap charge pump that turns 3.3V – 5V into a high voltage drive for the OLEDs.
 
 ## Specs
 
@@ -39,7 +39,7 @@ OLED Display Details:
 
 ## Integration
 
-The Oled is used to read the SSID and PASSWD of the local network from the rapsberry Pi. 
+The Oled is used to read the SSID and PASSWD of the local network from the Raspberry Pi. 
 
 ## Code
 

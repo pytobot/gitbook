@@ -13,7 +13,7 @@ sudo apt update
 sudo apt install samba samba-common-bin
 ```
 
-After installation configure the software by opening the file `/etc/samba/smb.conf` using nano.
+After installation, configure the software by opening the file `/etc/samba/smb.conf` using nano.
 
 ```text
 sudo nano /etc/samba/smb.conf
@@ -28,7 +28,7 @@ wins support = yes
 
 You can use anything as your workgroup name as long as it is alphanumerical and matches the workgroup you would like to join. The default workgroup in Windows 7, 8 and 10 is WORKGROUP.
 
-### Setup a folder to share
+### Set up a folder to share
 
 With the folder created we can now tell the Samba software to share it on the network. Open the file `/etc/samba/smb.conf` using nano.
 
@@ -63,5 +63,5 @@ sudo smbpasswd -a pi
 
 ## References
 
-Local share- Nico de Witte\[[SOURCE](https://www.raspberrypi.org/documentation/configuration/wireless/access-point.md)\]
+Local share- Nico De Witte\[[SOURCE](https://www.raspberrypi.org/documentation/configuration/wireless/access-point.md)\]
 
