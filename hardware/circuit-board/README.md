@@ -62,3 +62,7 @@ While Testing the first 1.0 PCB some minor and major issues came up.
 12. Change the diode to smaller one
 13. Add names for the wires
 14. 
+## Version 2.0 PCB
+
+![](../../.gitbook/assets/8eed0183-0295-4a34-a908-02e2056b03bf_1_0_1.png)
+
