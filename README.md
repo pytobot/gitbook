@@ -12,35 +12,35 @@ description: Thesis 2019 By Sybren Maréchal.
 
 ```text
 ├── Pytobot
-├── hardware
-│   ├── design
-│   ├── circuit-board
-│   │   └── controller
-│   │       ├── battery-input
-│   │       │   └── voltage-regulation
-│   │       └── kill-switch
-│   └── electronic
-│       ├── camera
-│       ├── distance-sensor
-│       ├── led-strip
-│       ├── line-sensor
-│       ├── motor
-│       └── oled
-├── programming
-│   ├── software
-│   │    ├── local-hotspot
-│   │    ├── local-share│
-│   │    └── systemd
-│   └── program
-│       ├── frameworks
-│       └── front-end
-├── extra
-│   ├── abbreviation
-│   ├── goals
-│   ├── log
-│   └── sources
-└── business
-    ├── business-model-canvas
-    └── curriculum
+├── Hardware
+│   ├── Design
+│   ├── Circuit-board
+│   │   └── Controller
+│   │       ├── Battery-input
+│   │       │   └── Voltage-regulation
+│   │       └── Kill-switch
+│   └── Electronic
+│       ├── Camera
+│       ├── Distance-sensor
+│       ├── Led-strip
+│       ├── Line-sensor
+│       ├── Motor
+│       └── Oled
+├── Programming
+│   ├── Software
+│   │    ├── Local-hotspot
+│   │    ├── Local-share
+│   │    └── Systemd
+│   └── Program
+│       ├── Frameworks
+│       └── Front-end
+├── Extra
+│   ├── Abbreviation
+│   ├── Goals
+│   ├── Log
+│   └── Sources
+└── Business
+    ├── Business-model-canvas
+    └── Curriculum
 ```
 
