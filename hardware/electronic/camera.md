@@ -1,2 +1,2 @@
-# camera
+# Camera
 

@@ -20,7 +20,7 @@ While putting Q1 High C1 will start charging. And BCM\_20 of the Raspberry Pi wi
 #### When SWITCH =&gt; OFF
 
 The remaining voltage before D1 will drain through R1 to the ground.  
-So BCM\_20 will become LOW. And the following code will run.
+So BCM\_20 will become LOW, and the following code will run.
 
 ```python
  if not GPIO.input(20):
@@ -28,27 +28,27 @@ So BCM\_20 will become LOW. And the following code will run.
         call("sudo shutdown -h now", shell=True)
 ```
 
-C1 will Load off his voltage to the Raspberry Pi, so that the Raspberry Pi has enough time to execute the command and shut down properly
+C1 will Load off his voltage to the Raspberry Pi, so that the Raspberry Pi has enough time to execute the command and shut down properly.
 
 ### RC Time Constant
 
 ![Time constant curve](../../../.gitbook/assets/rc1.gif)
 
 {% hint style="info" %}
-Time constant is a measurement of the time needed to charge or discharge a capacitor by ~63.2% of the difference between the old value and new value after an impulse that induces a change has been applied.
+Time constant is a measurement of the time needed to charge or discharge a capacitor by ~63.2% of the difference between the old and new value after an impulse that induces when a change has been applied.
 {% endhint %}
 
 $$
 t(s)=R(π) * C(F) = 10 000* 3,3=33 seconds
 $$
 
-The shutdown time of the Raspberry Pi is +-20 seconds, to be sure of an an proper shutdown 33 seconds is used.
+The shutdown time of the Raspberry Pi is +-20 seconds, to be sure of a proper shutdown 33 seconds is used.
 
 ## IRFZ44N
 
 **IRFZ44N** belongs to the family of N-channel Power [MOSFETs](https://www.theengineeringprojects.com/2018/02/introduction-to-mosfet.html), covered in plastic body and uses **“Trench”** technology. Its features include very low on state resistance, high speed processing technology, completely avalanche rated etc. Push pull systems and full bridge are a few of its real life applications.
 
-IRF-Z44N has a few major features. For this project the IRFZ44N is used for his **Fast switching capability and ultra low charge on the gate**
+IRF-Z44N has a few major features. For this project the IRFZ44N is used for his **Fast switching capability and ultra low charge on the gate**.
 
 ![IRFZ44N](../../../.gitbook/assets/irfz44n_circuit.gif)
 

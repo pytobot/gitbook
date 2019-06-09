@@ -2,33 +2,32 @@
 
 ## Image
 
-In the Major version of the Pytobot is an Image included. The Image comes loaded with the last features of the software.
+In the major version of the Pytobot is an image included. The image comes loaded with the last features of the software.
 
 The default features are:
 
 * Battery security
-* Startup With Hotspot
+* Startup with hotspot
 * SSID and PASSWD printed on OLED
-* Camera Stream
+* Camera stream
 * Basic tutorial to setup The API's 
 * Driving the car
 
 ## Setup
 
-When you would like to start from scratch. En go the whole procedure by yourself. This chapter will guide you through it. 
+When you would like to start from scratch. And go the whole procedure by yourself. This chapter will guide you through it. 
 
 ## Installing software
 
-The following script includes all of the libraries that are needed in the software.
-
- When you like to run the whole script in one time, use following commands
+The following script includes all of the libraries that are needed in the software.  
+When you like to run the whole script in one time, use following commands:
 
 ```text
 touch scirpt
 nano script
 ```
 
-Copy past "script" into the terminal and exit by using Ctrl-x and confirm. The following code will give the script the right permissions to execute and executes the file. 
+Copy paset "script" into the terminal and exit by using Ctrl-x and confirm. The following code will give the script the right permissions to execute and runs the code. 
 
 ```text
 chmod +X script

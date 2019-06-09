@@ -17,13 +17,13 @@
   * [Distance Sensor](hardware/electronic/distance-sensor.md)
   * [Line Sensor](hardware/electronic/line-sensor.md)
   * [OLED](hardware/electronic/oled.md)
-  * [camera](hardware/electronic/camera.md)
+  * [Camera](hardware/electronic/camera.md)
 
 ## Programming
 
 * [Software](programming/software/README.md)
-  * [Local Hotspot](programming/software/local-hotspot.md)
-  * [Local Share](programming/software/local-share.md)
+  * [Local hotspot](programming/software/local-hotspot.md)
+  * [Local share](programming/software/local-share.md)
   * [SystemD](programming/software/systemd.md)
 * [Program](programming/program/README.md)
   * [Frameworks](programming/program/frameworks.md)

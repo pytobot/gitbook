@@ -1,4 +1,4 @@
-# Local Hotspot
+# Local hotspot
 
 ## Set up a local hotspot
 
@@ -154,10 +154,10 @@ ssh pi@192.168.4.1
 
 By this point, the Raspberry Pi is acting as an access point, and other devices can associate with it. Associated devices can access the Raspberry Pi access point via its IP address for operations such as `rsync`, `scp`, or `ssh`.
 
-## Update the SSID and Password
+## Update the SSID and password
 
-The following script updates the SSID name to the last 8 Digits of the Mac Addres.   
-The PASSWD is updated to an random 8 Digit number. 
+The following script updates the SSID name to the last 8 digits of the mac addres.   
+The PASSWD is updated to a random 8 digit number. 
 
 {% code-tabs %}
 {% code-tabs-item title="acc\_point\_update.sh" %}
@@ -180,15 +180,15 @@ sudo systemctl start hostapd
 {% endcode-tabs-item %}
 {% endcode-tabs %}
 
-### ​Execute Script from startup
+### ​Execute script from startup
 
 {% page-ref page="systemd.md" %}
 
 {% hint style="warning" %}
-TODO: At this moment the script will search for SSIDNAME and PASSWD in the conf file. The first time on startup the SSIDNAME and PASSWD will be changed to the MACADDR and Random PASSWD, But after that its not possible to change it anymore. That is not a problem as long the SD CARD Stays in the same controller with the Same MACADDR. 
+TODO: At this moment the script will search for SSIDNAME and PASSWD in the config file. The first time on startup the SSIDNAME and PASSWD will be changed to the MACADDR and random PASSWD, But after that its not possible to change it anymore. That is not a problem as long the SD card stays in the same controller with the same MACADDR. 
 {% endhint %}
 
 ## References
 
-Local Hostspot- Raspberry Pi\[[SOURCE](https://www.raspberrypi.org/documentation/configuration/wireless/access-point.md)\]
+Local hostspot- Raspberry Pi\[[SOURCE](https://www.raspberrypi.org/documentation/configuration/wireless/access-point.md)\]
 

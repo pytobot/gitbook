@@ -3,15 +3,15 @@
 ## Electronic
 
 The **key** to a successful project is a **strong foundation**.   
-The electronic chapter explains the story of the **hardware inside the Pytobot**. What purpose does every component has, and how are they all connected to the main goal
+The electronic chapter explains the story of the **hardware inside the Pytobot**. What purpose does every component has, and how are they all connected to the main goal.
 
-> People who are really serious about software, should make their own hardware   
+> People who are really serious about software, should make their own hardware.   
 >  \[Alan Key - computer scientist\]
 
 In this chapter, each piece of hardware is taken separately and is explained in detail what their function is inside the main Project. Why the hardware is used, en how it is used.
 
 {% hint style="info" %}
-Add a picture of the car with all the parts and a short explanation 
+Add a picture of the car with all the parts and a short explanation.
 {% endhint %}
 
 ## Material List
