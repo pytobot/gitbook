@@ -4,7 +4,7 @@
 
 ## Key stage 1
 
-> **Bold** Statements are covered by Pytobot
+> **Bold** statements are covered by Pytobot
 
 Pupils should be taught to:
 
@@ -17,7 +17,7 @@ Pupils should be taught to:
 
 ## Key Stage 2
 
-> **Bold** Statements are covered by Pytobot
+> **Bold** statements are covered by Pytobot
 
 Pupils should be taught to:
 
@@ -31,7 +31,7 @@ Pupils should be taught to:
 
 ## Key Stage 3
 
-> **Bold** Statements are covered by Pytobot
+> **Bold** statements are covered by Pytobot
 
 Pupils should be taught to:
 
@@ -47,7 +47,7 @@ Pupils should be taught to:
 
 ## Key Stage 4
 
-> **Bold** Statements are covered by Pytobot
+> **Bold** statements are covered by Pytobot
 
 All pupils must have the opportunity to study aspects of information technology and computer science at sufficient depth to allow them to progress to higher levels of study or to a professional career.
 

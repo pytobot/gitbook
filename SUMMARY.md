@@ -27,13 +27,13 @@
   * [SystemD](programming/software/systemd.md)
 * [Program](programming/program/README.md)
   * [Frameworks](programming/program/frameworks.md)
-  * [front-end](programming/program/front-end.md)
+  * [frontend](programming/program/front-end.md)
 
 ## Extra
 
 * [log](extra/log.md)
-* [abbreviation](extra/abbreviation.md)
-* [sources](extra/sources.md)
+* [Abbreviation](extra/abbreviation.md)
+* [Sources](extra/sources.md)
 * [Goals](extra/goals.md)
 
 ## Business

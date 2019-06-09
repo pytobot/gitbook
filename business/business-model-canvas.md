@@ -6,8 +6,8 @@
 
 ### Partners
 
-* Frontend Programmer
-* Backend Programmer
+* Frontend programmer
+* Backend programmer
 * 3D print designer
 * PR / Sales
 
@@ -26,48 +26,48 @@
 
 What value do we deliver to the customer?
 
-* Remote & Easy control robot.
+* Remote & easy control robot.
 
-Which one of our customer's problems are we helping to solve?
+Which one of our customers problems are we helping to solve?
 
 * Making programming visual
 * Be able to control a device from a really quick stage of programming
-* Low Price 
+* Low price 
 * Easy controllable robot 
 
-What Bundles of product and services are we offering?
+What bundles of product and services are we offering?
 
 * Open source
   * 3D-design
   * Documentation
-* Base Model
+* Base model
   * 3D-Design
   * Chip
   * Motors
 * Mechanical parts 
   * Different models of cars
-  * Customise your robot. 
-* School Kit
-  * Base Model
+  * Customise your robot
+* School kit
+  * Base model
   * Teaching environment
   * Updates
   * Support 
 
 Which customer needs are we satisfying? 
 
-* Going deeper into the satisfaction of children and robots. 
+* Going deeper into the satisfaction of children and robots
 * Learning by practice
 * Quick feedback and output 
 
-## Customer Relationships
+## Customer relationships
 
 ## Channels
 
-## Customer Segments
+## Customer segments
 
-## Cost Structure 
+## Cost structure 
 
-## Revenue Streams
+## Revenue streams
 
 *  * 
 * 
