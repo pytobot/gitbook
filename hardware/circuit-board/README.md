@@ -1,24 +1,24 @@
-# Circuit Board
+# Circuit board
 
-## Circuit Board
+## Circuit board
 
-A **printed circuit board** \(**PCB**\) mechanically supports all of the electronic components.
+A **printed circuit board** \(**PCB**\) mechanically supports all of the electronic components.  
 
 ## Version 0.1
 
-The first prototype is made on a **breadboard**. In the first prototype is the main functionality to power the devices. The input power is 7.2V because later in the project the power source will change from a Voltage Regulator to 2X 3.6V battery's. This input power is used to power the H-bridge that controls the motors.
+The first prototype is made on a **breadboard**. In the first prototype is the main functionality to power the devices. The input power is 7.2V because later in the project the power source will change from a Voltage Regulator to 2X 3.6V batteries. This input power is used to power the H-bridge that controls the motors.
 
 The DC-DC converter is used to regulate the battery input to 5V to power on the Raspberry Pi.
 
 {% hint style="danger" %}
-While using the Breadboard there was an **0.2 voltage drop** through the circuit. Breadboards are good for testing. But if you want a steady design. Soldering is the solution.
+While using the Breadboard there was an **0.2 voltage drop** through the circuit. Breadboards are good for testing, but if you want a steady design, soldering is the solution.
 {% endhint %}
 
 ![Pytobot print V0.1](../../.gitbook/assets/img_5078-2-copy.jpg)
 
 ## Version 0.2
 
-The **second version** of the print was **soldered** to get rid of the voltage drop through the circuit and have a more steady design. Screw terminals were added to have an easier connection with the hardware. Because the DC-DC regulator can't take more than 1A and the LED's take more than 1A. 2 extra DC-DC regulators were added for 2 extra LED strips. Also a diode is added to the circuit to secure the devices if the battery's would not placed correctly and pot power on the ground. The capacitor was added to have a more steady circuit for the RasRaspberry Pi
+The **second version** of the print was **soldered** to get rid of the voltage drop through the circuit and have a more steady design. Screw terminals were added to have an easier connection with the hardware. Because the DC-DC regulator can't take more than 1A and the LED's take more than 1A. 2 extra DC-DC regulators were added for 2 extra LED strips. Also a diode is added to the circuit to secure the devices if the batteries would not placed correctly and pot power on the ground. The capacitor was added to have a more steady circuit for the Raspberry Pi.
 
 > Version 0.2 is the first design that was used with battery power to have the first tests of the motors and remote control
 

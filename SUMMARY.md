@@ -6,7 +6,7 @@
 ## hardware
 
 * [Design](hardware/design.md)
-* [Circuit Board](hardware/circuit-board/README.md)
+* [Circuit board](hardware/circuit-board/README.md)
   * [Controller](hardware/circuit-board/controller/README.md)
     * [Kill switch](hardware/circuit-board/controller/kill-switch.md)
     * [Battery input](hardware/circuit-board/controller/battery-input/README.md)
