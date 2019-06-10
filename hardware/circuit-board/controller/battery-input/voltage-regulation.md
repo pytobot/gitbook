@@ -19,6 +19,10 @@ To use the controller and sensors, a 5V input is needed. So a step down to 5V is
 The Ampere use of the LED's is variable from a lot of different factors. Because the variance is so high, a separate 2A circuit is needed. 
 {% endhint %}
 
+### LED strip
+
+The LED strip approximately uses more that 2A for the 72 LED's. To devide the current 2 voltage deviders are used to power the LED. 
+
 ## Troubleshooting
 
 ### AN7805

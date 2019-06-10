@@ -2,8 +2,6 @@
 
 ## Setting up a share
 
-> Source gitbook [Developing apps for the RPi from Nico De Witte](https://vives.gitbook.io/iot-devices/developing-apps-for-the-rpi/05_developing_apps_for_rpi#setting-up-a-share)
-
 To share network folders to a Windows computer we need to install some special software on the Raspberry Pi. The Samba software package implements the SMB protocol and provides support for the Windows naming service \(WINS\) and for joining a Windows Workgroup.
 
 Installing the software using the commands below:
