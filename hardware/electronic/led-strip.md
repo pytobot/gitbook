@@ -2,7 +2,7 @@
 
 ## Digital RGBW Led strip
 
-Pytobot has 72 Led's included in the hardware. The Led's give a more visible image of what is happening behind the hardware of the car. 
+Pytobot has 72 Led's included in the hardware. The Led's give a more visible image of what is happening behind the software of the car. 
 
 ![](../../.gitbook/assets/img_1064-copy.jpeg)
 

@@ -15,7 +15,7 @@
   * [Motor](hardware/electronic/motor.md)
   * [Led Strip](hardware/electronic/led-strip.md)
   * [Distance Sensor](hardware/electronic/distance-sensor.md)
-  * [Line Sensor](hardware/electronic/line-sensor.md)
+  * [Line sensor](hardware/electronic/line-sensor.md)
   * [OLED](hardware/electronic/oled.md)
 
 ## Programming
