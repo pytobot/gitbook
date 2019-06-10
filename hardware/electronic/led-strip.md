@@ -1,10 +1,10 @@
-# LED-Strip
+# Led Strip
 
-## Digital RGBW Led Strip
+## Digital RGBW Led strip
 
-Pytobot has 120 Led's included in the hardware. The Led's give a more visible image what is happening behind the hardware of the car. 
+Pytobot has 72 Led's included in the hardware. The Led's give a more visible image of what is happening behind the hardware of the car. 
 
-![](../../.gitbook/assets/giphy-2.gif)
+![](../../.gitbook/assets/img_1064-copy.jpeg)
 
 ## Calculation
 
@@ -15,15 +15,15 @@ Pytobot has 120 Led's included in the hardware. The Led's give a more visible im
 | Blue | 465-475 | 200-400 | 20 | 3.2-3.4 |
 
 {% hint style="info" %}
-The max rating has assumed all the LEDs are on full white, usually the actual current for full color design is about 1/3 to 1/2 the max current.
+The max rating has assumed all the led's are on full width, usually the actual current for full color design is about 1/3 to 1/2 the max current.
 {% endhint %}
 
 $$
-24*(20+20+20)=1440mA
+72*(20+20+20)=4320mA
 $$
 
 $$
-1440mA/2=720mA
+4320mA/2=2160mA
 $$
 
 ## Code
@@ -44,6 +44,8 @@ while True:
 ```
 
 ## Datasheet
+
+{% file src="../../.gitbook/assets/ws2812.pdf" %}
 
 
 

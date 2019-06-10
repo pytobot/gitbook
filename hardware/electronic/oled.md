@@ -1,47 +1,18 @@
 # OLED
 
-## 
+## OLED
+
+This display is made of 128 x 64 individual white OLED pixels, each one is turned on or off by the controller chip. The driver chip, SSD1306 can communicate in two ways: I²C or SPI. The OLED itself require a 3.3V power supply and 3.3V logic levels for communication.
 
 ![](../../.gitbook/assets/938-12.jpg)
 
-## About
-
-Adafruit Industries LLC
-
-These displays are small, only 1.3" diagonal, but very readable due to the high contrast of an OLED display. This display is made of 128 x 64 individual white OLED pixels, each one is turned on or off by the controller chip. Because the display makes its own light, no backlight is required. This reduces the power required to run the OLED and is why the display has such high contrast. The driver chip, SSD1306 can communicate in two ways: I²C or SPI. The OLED itself require a 3.3V power supply and 3.3V logic levels for communication, it includes a 3.3V regulator and all pins are fully level shifted so you can use with 5V devices. The power requirements depend a little on how much of the display is lit, but on average the display uses about 40mA from the 3.3V supply. Built into the OLED driver is a simple switch-cap charge pump that turns 3.3V – 5V into a high voltage drive for the OLEDs.
-
-## Specs
-
-Breakout Board Dimensions:
-
-* PCB: 35mm x 35mm x 5mm / 1.4" x 1.4" x 0.2"
-* Mounting Hole Dimensions: 29.5mm x 29mm / 1.16" x 1.14"
-* Mounting Hole Diameter: 2.5mm / 0.1"
-* Screen: 23mm x 35mm / 0.9" x 1.4"
-* Weight: 8.5g
-* This board/chip uses I2C 7-bit address between 0x3C-0x3D, selectable with jumpers
-
-OLED Display Details:
-
-* Diagonal Screen Size：1.30"
-* Number of Pixels：128 × 64
-* Color Depth：Monochrome \(White\)
-* Module Construction：COG
-* Module Size \(mm\)：34.50 x 35.00
-* Panel Size \(mm\)：34.50 x 23.00 x 1.45
-* Active Area \(mm\)：29.420 x 14.70
-* Pixel Pitch \(mm\)：0.23 x 0.23
-* Pixel Size \(mm\)：0.21 x 0.21
-* Weight \(g\)：2.18
-* Duty：1/64
-* Brightness \( cd/m2\)：100 \(Typ\) @ 12V
-* Display current draw is completely dependent on your usage: each OLED LED draws current when on so the more pixels you have lit, the more current is used. They tend to draw ~25mA or so in practice but for precise numbers you must measure the current in your usage circuit.
-
 ## Integration
 
-The Oled is used to read the SSID and PASSWD of the local network from the Raspberry Pi. 
+The OLED is used to have the first communication and indication with the client. The OLED will privide the first connection an control explanation. 
 
-## Code
+The Oled will respond while **booting**, **shutdown**, **local network** setup and **low battery** power. 
+
+## Code local network communication
 
 ```python
 def Print(self):

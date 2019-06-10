@@ -13,7 +13,7 @@
       * [Voltage regulation](hardware/circuit-board/controller/battery-input/voltage-regulation.md)
 * [Electronic](hardware/electronic/README.md)
   * [Motor](hardware/electronic/motor.md)
-  * [LED-Strip](hardware/electronic/led-strip.md)
+  * [Led Strip](hardware/electronic/led-strip.md)
   * [Distance Sensor](hardware/electronic/distance-sensor.md)
   * [Line Sensor](hardware/electronic/line-sensor.md)
   * [OLED](hardware/electronic/oled.md)
