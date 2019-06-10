@@ -17,7 +17,6 @@
   * [Distance Sensor](hardware/electronic/distance-sensor.md)
   * [Line Sensor](hardware/electronic/line-sensor.md)
   * [OLED](hardware/electronic/oled.md)
-  * [Camera](hardware/electronic/camera.md)
 
 ## Programming
 

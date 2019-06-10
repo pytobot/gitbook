@@ -28,11 +28,10 @@ Sybren maréchal
 │   │       │   └── Voltage-regulation
 │   │       └── Kill-switch
 │   └── Electronic
-│       ├── Camera
-│       ├── Distance-sensor
-│       ├── Led-strip
-│       ├── Line-sensor
 │       ├── Motor
+│       ├── Led-strip
+│       ├── Distance-sensor
+│       ├── Line-sensor
 │       └── Oled
 ├── Programming
 │   ├── Software

@@ -65,9 +65,7 @@ While working with the on design it was possible to see any problems and where t
 
 ## Print Version 2
 
-{% hint style="info" %}
-ADD PICTURE
-{% endhint %}
+![](../.gitbook/assets/img_1064-copy.jpeg)
 
 1. Add cover for the Batteries.
 2. Higher the stands for H-Bridge.

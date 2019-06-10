@@ -31,9 +31,9 @@ def Print(self):
 
 ### Scrambled Screen
 
-![Scrambled Screen](../../.gitbook/assets/img_2994.jpg)
+If the screen has all scrambled white dots over it, there is a high chance that the Reset pin is in a flying stage or not connected correctly. 
 
-It's the pin for the RESET line. In transferring from library to my working code, I omitted to re-edit the definition of the reset pin. If it's not working, check that RST is wired to the correct pin, and that it is set for output. The reset is necessary for both the SPI and and I2C versions with the Adafruit library. \[[SOURCE](http://engineeringnotes.blogspot.com/2015/03/why-is-oled-display-scrambled-random.html)\]
+![Scrambled Screen](../../.gitbook/assets/img_2994.jpg)
 
 #### Adding hardware reset pin
 
