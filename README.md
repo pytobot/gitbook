@@ -6,7 +6,7 @@ description: Thesis 2019 By Sybren Maréchal.
 
 ## Preface
 
-The following Thesis is a summary of my 3 years of study as a software engineer. All of the gained knowledge from electrictronics to networking and project design are combined into the Pytobot Project. As a project of own choice, I wanted to support the educational system to provide a robot for children that makes the way into programming easier. 
+The following Thesis is a summary of my 3 year study as a software engineer. All of the gained knowledge from electrictronics until networking and project design are combined into the Pytobot Project. As a project of own choice, I wanted to support the educational system to provide a robot for children that makes the way into programming easier. 
 
 My first thanks for the help on this product is the open source community. During my courses and my project, the open source community was always a great help. To thank them, my project will also be added as an open source project. So further engineers can learn and continue. 
 
