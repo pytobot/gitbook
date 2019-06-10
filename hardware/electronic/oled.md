@@ -21,11 +21,11 @@ def Print(self):
         self.passwd = "grep wpa_passphrase /etc/hostapd/hostapd.conf | tail -c 9"
         self.PASSWD = subprocess.check_output(self.passwd, shell=True).decode("utf-8")
 
-        self.draw.text((self.x, self.top+10), "PYTOBOT \n" +"SSID: " + self.MAC + "PASS:" + self.PASSWD, font=self.font, fill=255, align="center")
+        self.draw.text((self.x, self.top+10), "PYTOBOT \n" +"WIFI: " + self.MAC + "PASS:" + self.PASSWD, font=self.font, fill=255, align="center")
 
 ```
 
-![](../../.gitbook/assets/img_3704-copy.jpg)
+![](../../.gitbook/assets/lcd-copy.jpg)
 
 ## Troubleshooting 
 
