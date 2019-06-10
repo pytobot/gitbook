@@ -10,7 +10,7 @@ The following Thesis is a summary of my 3 year study as a software engineer. All
 
 My first thanks for the help on this product is the open source community. During my courses and my project, the open source community was always a great help. To thank them, my project will also be added as an open source project. So further engineers can learn and continue. 
 
-Further, I would like to thank my lectors and professors from SAMK robotic engineering. Kortelainen Joonas, Leino Mirka, Petteri, Valo Pauli and VIVES software engineering, Nico De Witte, Sille Van Landschoot, Tom Cordemans, Franky Loret.they taught me the knowledge i needed to succeed this project and guided me through the path and process of being an engineer and myself. 
+Further, I would like to thank my lectors and professors from SAMK robotic engineering. Kortelainen Joonas, Leino Mirka, Petteri Pulkkinen, Valo Pauli and VIVES software engineering, Nico De Witte, Sille Van Landschoot, Tom Cordemans, Franky Loret.they taught me the knowledge i needed to succeed this project and guided me through the path and process of being an engineer and myself. 
 
 Also, My parents and my friends and my friends From KSA De Graal who supported are a big part of my life and guided me to the person I am today.
 

@@ -23,7 +23,7 @@ On full power the robot batteries can last for approximately 45 minutes.
 To be able to secure the components and the controller, a voltage detection is needed to shut down the circuit when the batteries drop below the minimum voltage.
 
 {% hint style="warning" %}
-The Raspberry Pi doesn’t have _\*\*_a way to read analog inputs. It's a digital-only device.
+The Raspberry Pi doesn’t have a way to read analog inputs. It's a digital-only device.
 {% endhint %}
 
 To solve the problem of only analogue in, an ADC is an added to convert analog to digital.
@@ -44,11 +44,16 @@ $$
 
 ### Code
 
-The following code shuts down the Raspberry Pi when the voltage goes under 5V.
+The following code prints out when the voltage goes under 5V.
 
-{% hint style="info" %}
-TODO
-{% endhint %}
+```python
+while True:
+    print(chan.value)
+    if chan.value>56549: #56549 is the valuo that indecates 4.99V 
+        print("Battery +5V")
+    else:
+        print("Battery -5V" )
+```
 
 ## Polarity Protection
 
