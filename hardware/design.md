@@ -1,10 +1,10 @@
 # Design
 
-{% hint style="info" %}
-INSERT GIF OF 3D DESIGN
-{% endhint %}
+![](../.gitbook/assets/img_1064-copy.jpeg)
 
+{% hint style="info" %}
 ## About
+{% endhint %}
 
 **3D printing** is an innovative technology that creates a **physical object** from ****a **digital model**. It started in the 80’s under the name _‘rapid prototyping’,_  because the purpose of the technology was: to **prototype** **faster** and **cheaper**. A lot’s changed since then, and today's 3D printers offer amazing results and let you create anything you can imagine.
 
