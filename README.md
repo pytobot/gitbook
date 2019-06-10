@@ -14,7 +14,7 @@ Further, I would like to thank my lectors and professors from SAMK robotic engin
 
 Also, My parents and my friends and my friends From KSA De Graal who supported are a big part of my life and guided me to the person I am today.
 
-Sybren maréchal
+Sybren Maréchal
 
 ## Abstract
 
