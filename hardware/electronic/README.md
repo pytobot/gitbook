@@ -26,7 +26,7 @@ Add a picture of the car with all the parts and a short explanation.
 
 | Nr. | Name | Description | Mouser-ID | Quantity |
 | :--- | :--- | :--- | :--- | :--- |
-| 2 | R-78B5.0 | DC regulator | 713-110991027 | 3 |
+| 2 | R-78B5.0 | DC regulator | 919-R-78B5.0-2.0 | 3 |
 | 3 | 27P06 | P-channel Mosfet | 512-FQP27P06 | 1 |
 | 4 | IRF Z44N | power Mosfet | 942-IRFZ44NPBF | 1 |
 | 5 | ADC MCP3008 | Analog digital converter | 579-MCP3008-I/P | 1 |
