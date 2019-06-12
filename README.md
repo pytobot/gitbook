@@ -12,7 +12,7 @@ My first thanks for the help on this product is the open source community. Durin
 
 Further, I would like to thank my lectors and professors from SAMK robotic engineering. Kortelainen Joonas, Leino Mirka, Petteri Pulkkinen, Valo Pauli and VIVES software engineering, Nico De Witte, Sille Van Landschoot, Tom Cordemans, Franky Loret.they taught me the knowledge i needed to succeed this project and guided me through the path and process of being an engineer and myself. 
 
-Also, My parents and my friends and my friends From KSA De Graal who supported are a big part of my life and guided me to the person I am today.
+Also, My parents and my friends From KSA De Graal are a big part of my life and guided me to the person I am today.
 
 Sybren Maréchal
 
