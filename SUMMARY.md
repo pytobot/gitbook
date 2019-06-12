@@ -35,8 +35,3 @@
 * [Sources](extra/sources.md)
 * [Goals](extra/goals.md)
 
-## Business
-
-* [Business Model Canvas](business/business-model-canvas.md)
-* [Curriculum](business/curriculum.md)
-
