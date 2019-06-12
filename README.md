@@ -1,5 +1,5 @@
 ---
-description: Thesis by Sybren Maréchal (SAMK university of applied science (2019)).
+description: A thesis by Sybren Maréchal (SAMK university of applied science (2019)).
 ---
 
 # Multi control open source robot for universal programming education \[PYTOBOT\]
