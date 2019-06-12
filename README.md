@@ -16,7 +16,7 @@ Also, My parents and my friends From KSA De Graal are a big part of my life and 
 
 Sybren Maréchal
 
-## Abstract
+## Structure
 
 ```text
 ├── Pytobot
