@@ -59,8 +59,8 @@
 | 30/05/19 | Documentation Gitbook, PCB design |
 | 31/05/19 | Distance sensor, PCB testing |
 | 01/06/19 | Order List, PCB design, documentation Gitbook   |
-| 02/06/19 |  |
-| 03/06/19 |  |
+| 02/06/19 | Documentation Gitbook |
+| 03/06/19 | Documentation Gitbook |
 | 04/06/19 |  |
 | 05/06/19 |  |
 | 06/06/19 |  |

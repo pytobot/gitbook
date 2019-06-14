@@ -27,12 +27,7 @@ touch scirpt
 nano script
 ```
 
-Copy paset "script" into the terminal and exit by using Ctrl-x and confirm. The following code will give the script the right permissions to execute and runs the code. 
-
-```text
-chmod +X script
-sudo -Y ./script
-```
+Copy paset "script" into the terminal and exit by using Ctrl-x and confirm. 
 
 {% code-tabs %}
 {% code-tabs-item title="script" %}
@@ -74,13 +69,29 @@ sudo apt install python3-pil
 #install MCP3008
 sudo pip3 install adafruit-circuitpython-mcp3xxx
 
-Escape19
-
-git config --global user.email "sybrenmarechal@icloud.com"
-git config --global user.name "sybren-marechal"
-git config --global credential.helper store
-git pull
+#delte script
+sudo rm script
 ```
 {% endcode-tabs-item %}
 {% endcode-tabs %}
 
+## Enable interfaces
+
+The following code will give the script the right permissions to execute and runs the code. 
+
+```text
+chmod +x script
+yes | sudo ./script
+```
+
+```text
+sudo raspi-config
+```
+
+Go to 5. \[interfacing options\] and enable:
+
+* Camera
+* SSH
+* SPI
+* I2C
+* 

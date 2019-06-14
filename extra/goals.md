@@ -8,7 +8,8 @@ Pytobot is a big project with great possibilities, therefore it wasn't possible 
 * [x] Software
   * [x] Integration of all of the Hardware
   * [x] Remote control of the product
-  * [x] Remote programming possibilities 
+  * [x] Remote programming possibilities
+  * [ ] Update SSID NAME
   * [ ] Collaboration between the hardware
   * [ ] Learning environment for children
   * [ ] Toy in the box
