@@ -32,6 +32,5 @@
 
 * [log](extra/log.md)
 * [Abbreviation](extra/abbreviation.md)
-* [Sources](extra/sources.md)
 * [Goals](extra/goals.md)
 
