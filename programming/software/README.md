@@ -42,7 +42,6 @@ sudo apt upgrade
 
 #install git
 sudo apt install git
-git clone https://github.com/pytobot/pytobot.git
 
 #install I2C tools
 sudo apt install i2c-tools
@@ -74,6 +73,12 @@ sudo rm script
 ```
 {% endcode-tabs-item %}
 {% endcode-tabs %}
+
+Download repo
+
+```text
+git clone https://github.com/pytobot/pytobot.git
+```
 
 ## Enable interfaces
 
