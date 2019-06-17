@@ -1,12 +1,12 @@
 ---
-description: A thesis by Sybren Maréchal (SAMK University of Applied Science (2019)).
+description: An end project by Sybren Maréchal (SAMK University of Applied Science (2019)).
 ---
 
 # Multi control open source robot for universal programming education \[PYTOBOT\]
 
 ## Preface
 
-The following thesis is a summary of my 3 year study as a software engineer. All of the gained knowledge from electrotonic to networking and project design are combined into the Pytobot project. With this project that I chose myself, I wanted to support the educational system to provide a robot for children that makes the way into programming easier.
+The following end project is a summary of my 3 year study as a software engineer. All of the gained knowledge from electrotonic to networking and project design are combined into the Pytobot project. With this project that I chose myself, I wanted to support the educational system to provide a robot for children that makes the way into programming easier.
 
 There are a lot of people I’d like to thank for helping me during the process of making the Pytobot. But first of all I want to thank the open source community. For me it was a great help that I could consult the open source community at any time I wanted to. To thank them, my Pytobot will also be added as an open source project, so that other engineers can gain knowledge about it.
 

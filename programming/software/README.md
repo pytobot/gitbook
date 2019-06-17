@@ -87,6 +87,7 @@ The following code will give the script the right permissions to execute and run
 ```text
 chmod +x script
 yes | sudo ./script
+rm script
 ```
 
 ```text
