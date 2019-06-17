@@ -22,8 +22,7 @@ When you would like to start from scratch. And go the whole procedure by yoursel
 The following script includes all of the libraries that are needed in the software.  
 When you like to run the whole script in one time, use following commands:
 
-```text
-touch scirpt
+```bash
 nano script
 ```
 
@@ -68,6 +67,12 @@ sudo apt install python3-pil
 #install MCP3008
 sudo pip3 install adafruit-circuitpython-mcp3xxx
 
+#install dnsmasq
+sudo apt install dnsmasq hostapd
+
+#install samba
+sudo apt install samba samba-common-bin
+
 #delte script
 sudo rm script
 ```
@@ -84,10 +89,10 @@ git clone https://github.com/pytobot/pytobot.git
 
 The following code will give the script the right permissions to execute and runs the code. 
 
-```text
+```bash
 chmod +x script
 yes | sudo ./script
-rm script
+git clone https://github.com/pytobot/pytobot.git
 ```
 
 ```text
