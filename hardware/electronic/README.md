@@ -50,7 +50,7 @@ Add a picture of the car with all the parts and a short explanation.
 | 18 | RGB LED | Digital | 485-2848 | 1 | €61,09 |
 | 19 | Distance Sensor | Ultrasonic | 485-979 | 1 | €24,48 |
 | 20 | Micro servo | servo | 426-SER0039 | 1 | €5,15 |
-| 21 | H-Bridge | motor controller | [Amazon](https://www.amazon.de/dp/B077YC3JX9/ref=sr_1_3?__mk_nl_NL=ÅMÅŽÕÑ&keywords=h-bridge&qid=1557838520&s=gateway&sr=8-3) | 1 |  |
+| 21 | H-Bridge | motor controller | [Amazon](https://www.amazon.de/dp/B077YC3JX9/ref=sr_1_3?__mk_nl_NL=ÅMÅŽÕÑ&keywords=h-bridge&qid=1557838520&s=gateway&sr=8-3) | 1 | €5,09 |
 | 22 | Battery Holder | Holder 2X | 534-1048P | 1 | €3,78 |
 | 23 | Motor | 6-12V | 424-1/19-MOTOR-KIT | 4 | €18,16 |
 
