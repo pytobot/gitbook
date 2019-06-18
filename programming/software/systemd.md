@@ -170,7 +170,7 @@ WantedBy=multi-user.target
 To start and enable the service the following code is used.
 
 {% hint style="danger" %}
-Only enable this service when the Raspberry Pi is inside the PCB. Or Pin 20 needs to have a manual High pin
+Only enable this service when the Raspberry Pi is inside the PCB. Or Pin 26 needs to have a manual High pin
 {% endhint %}
 
 {% hint style="warning" %}
@@ -186,10 +186,10 @@ By executing the start command the following code will run:
 from subprocess import call
 import RPi.GPIO as GPIO            # import RPi.GPIO module
 GPIO.setmode(GPIO.BCM)
-GPIO.setup(20, GPIO.IN)           # set GPIO20 as an input
+GPIO.setup(26, GPIO.IN)           # set GPIO20 as an input
 
 while True:
-    if not GPIO.input(20):
+    if not GPIO.input(26):
         print('SYSTEM SHUTDOWN')
         call("sudo shutdown -h now", shell=True)
 ```

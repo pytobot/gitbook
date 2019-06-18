@@ -21,8 +21,8 @@
 ## Programming
 
 * [Software](programming/software/README.md)
-  * [Local hotspot](programming/software/local-hotspot.md)
   * [Local share](programming/software/local-share.md)
+  * [Local hotspot](programming/software/local-hotspot.md)
   * [SystemD](programming/software/systemd.md)
 * [Program](programming/program/README.md)
   * [Frameworks](programming/program/frameworks.md)
