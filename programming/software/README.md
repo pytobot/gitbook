@@ -91,7 +91,7 @@ The following code will give the script the right permissions to execute and run
 
 ```bash
 chmod +x script
-yes | sudo ./script
+time yes | sudo ./script
 git clone https://github.com/pytobot/pytobot.git
 ```
 
