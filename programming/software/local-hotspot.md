@@ -70,7 +70,7 @@ add the following text into the file
 ```text
 interface=wlan0
 driver=nl80211
-ssid=SSIDNAME
+ssid=pytobot:00:00:00
 hw_mode=g
 channel=7
 wmm_enabled=0
